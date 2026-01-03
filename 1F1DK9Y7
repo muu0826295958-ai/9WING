@@ -1,0 +1,516 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>9WING.SHOP - จำหน่ายโปรแกมช่วยเล่นโยกังจุติยุทธภพเลือดใหม่ บริการขาย M ราคาถูก แหล่งรวมพ่อค้าชั้นนำแนวหน้า</title>
+    <link href="templatemo-nexus-style.css" rel="stylesheet">
+
+<!-- POPUP CSS -->
+<style>
+#entryPopup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.88);
+    backdrop-filter: blur(5px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 999999;
+}
+
+.popup-box {
+    background: #0a0f1f;
+    border: 2px solid #00eaff;
+    box-shadow: 0 0 25px rgba(0, 234, 255, 0.4);
+    /* ปรับความกว้างให้พอดีกับเนื้อหา (รูปภาพ) */
+    width: auto; 
+    max-width: 90%; /* กันหลุดจอสำหรับมือถือ */
+    text-align: center;
+    color: white;
+    border-radius: 12px;
+    animation: popupFade 0.4s ease;
+    overflow: hidden; /* ให้รูปที่ขอบมนตัดตามการ์ด */
+}
+
+/* ส่วนหัวข้อและข้อความ */
+.popup-content {
+    padding: 20px 20px 10px 20px;
+}
+
+.popup-box h2 {
+    font-size: 22px;
+    margin: 0 0 5px 0;
+    color: #00eaff;
+}
+
+/* ปรับแต่งรูปภาพให้กว้างเต็ม Popup */
+.popup-img {
+    width: 100%;
+    height: auto;
+    display: block; /* ลบช่องว่างใต้รูป */
+}
+
+/* ส่วนปุ่มกด */
+.popup-footer {
+    padding: 15px 20px 20px 20px;
+}
+
+.popup-btn {
+    padding: 12px 25px;
+    background: #00eaff;
+    border: none;
+    color: #000;
+    font-size: 18px;
+    cursor: pointer;
+    width: 100%;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: 0.2s;
+}
+
+.popup-btn:hover {
+    background: #00bcd4;
+}
+
+@keyframes popupFade {
+    from { transform: scale(0.8); opacity: 0; }
+    to { transform: scale(1); opacity: 1; }
+}
+</style>
+
+<div id="entryPopup">
+    <div class="popup-box">
+        <div class="popup-content">
+            <h2>⚠️ ประกาศจาก 9WING.SHOP ⚠️</h2>
+            
+        </div>
+
+        <!-- รูปภาพจะกำหนดความกว้างของ Popup -->
+        <img src="https://uppic.cloud/ib/Nwo4Y60GYyo2fkU_1766703483.png" class="popup-img">
+
+        <div class="popup-footer">
+            <button class="popup-btn" onclick="closePopup()">เข้าสู่เว็บไซต์</button>
+        </div>
+    </div>
+</div>
+
+<script>
+function closePopup() {
+    document.getElementById('entryPopup').style.display = 'none';
+}
+</script>
+function closePopup() {
+    document.getElementById("entryPopup").style.display = "none";
+}
+</script>
+
+
+<!-- BACKGROUND + CONTENT (ของเดิมคุณทั้งหมดด้านล่างนี้) -->
+	
+    <div class="cyber-bg">
+        <div class="cyber-gradient"></div>
+        <div class="matrix-rain" id="matrixRain"></div>
+    </div>
+    
+    <div class="particles" id="particlesContainer"></div>
+    
+    <div class="data-streams" id="dataStreams"></div>
+    
+    <div class="orb orb1"></div>
+    <div class="orb orb2"></div>
+    <div class="orb orb3"></div>
+    
+    <div class="grid-overlay">
+        <div class="grid-lines"></div>
+        <div class="grid-glow"></div>
+    </div>
+    
+    <div class="scanlines"></div>
+    <div class="noise-overlay"></div>
+    
+    <!-- Navigation -->
+    <nav>
+        <div class="nav-container">
+            <a href="#top" class="logo">9WING.SHOP</a>
+            <ul class="nav-links">
+                <li><a href="#pricing">PRO YG</a></li>
+                <li><a href="#PARTNER">PARTNER</a></li>
+                <li><a href="#stats">Stats</a></li>
+                <li><a href="#contact">REVIEW PRO</a></li>
+            </ul>
+            <div class="nav-bottom">
+                <a href="https://download1072.mediafire.com/jwobieo0l0cgPy5J_CnbXIIYd7RBk9pdbD3zcrkxB4Ok2LD471avVsxARP3zQFD08Tri0rOkRQViiXUbVzEU4j_Jdlxtpk416StvqLtFozxUXYw2j7uh0Np_esv4H-xTw2q0g-2ZKLBAr_gF7V7ghEWs2Si-zVCHnhhCHXDz300/ffjemmir8ipiobk/YG.BY-%E0%B8%A7%E0%B8%B4%E0%B9%88%E0%B8%87V5_11.11.11.apk" class="cyber-button">DOWNLOAD APK YG</a>
+            </div>
+            <button class="mobile-menu-button" id="mobileMenuBtn">
+                <div class="hamburger">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </button>
+        </div>
+    </nav>
+
+    <!-- Mobile Menu -->
+    <div class="mobile-menu-overlay" id="mobileMenuOverlay"></div>
+    <div class="mobile-menu" id="mobileMenu">
+        <div class="mobile-menu-header">
+            <a href="#top" class="mobile-menu-logo">9WING.SHOP</a>
+            <button class="mobile-menu-close" id="mobileMenuClose">✕</button>
+        </div>
+        <div class="mobile-menu-cta">
+            <a href="https://script.google.com/macros/s/AKfycby1fmb6zQ1YyoVaek36p51vl9drxyIdbzlaHVEDxNsHZdEBh7eL5UPv6DwBRaz6zrSh/exec" class="cyber-button">USER LOGIN</a>
+        </div>
+        <nav class="mobile-menu-nav">
+            <ul>
+                <li><a href="#PRO YG">PRO YG</a></li>
+                <li><a href="#PARTNER">PARTNER</a></li>
+                <li><a href="#stats">PRO YG</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </div>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-container">
+            <h1 class="hero-title">
+                <span class="hero-nexus">9WING.</span><span class="hero-flow">SHOP</span>
+            </h1>
+            <p class="hero-subtitle">จำหน่ายโปรแกมช่วยเล่นโยกังจุติยุทธภพเลือดใหม่
+			แหล่งรวมพ่อค้าชั้นนำแนวหน้าของวงการ และอื่นๆ อีกมากมาย..</p>
+            <div class="hero-buttons">
+                <a href="#pricing" class="btn-primary">PRO โยกังจุติยุทธภพเลือดใหม่</a>
+                <a href="#features" class="btn-secondary">แหล่งรวมพ่อค้าชั้นนำแนวหน้า</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Stats Section -->
+    <section class="stats fade-up" id="stats">
+        <div class="stats-container">
+            <div class="stats-grid">
+                <div class="stat-item">
+                    <div class="plan-price">100</div>
+                    <span class="stat-label">ALL USERS</span>
+                </div>
+                <div class="stat-item">
+                    <div class="plan-price">1.13.13</div>
+                    <span class="stat-label">VERSION APK YG</span>
+                </div>
+                <div class="stat-item">
+                    <div class="plan-price">0</div>
+                    <span class="stat-label">GAME BAN USERS</span>
+                </div>
+                <div class="stat-item">
+                    <div class="plan-price">4</div>
+                    <span class="stat-label">WING BAN USERS</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+<section class="features fade-up" id="features">
+    <div class="features-container">
+        <div class="section-header">
+            <h2 class="section-title">PARTNER</h2>
+            <p class="section-subtitle">เหล่าพ่อค้าแม่ค้าชั้นนำแนวหน้าของวงการ งานไวไม่ดองงาน เครดิตดีไม่มีเสีย ตรวจสอบได้ ติดต่อซื้อขายผ่าน FB พ่อค้าแม่ค้าใด้โดยตรงไม่เสียค่านายหน้านะจ๊ะ</p>
+        </div>
+
+        <div class="features-grid">
+            <!-- Card 1 -->
+            <div class="feature-card">
+                <div class="feature-icon">🚀</div>
+                <div class="card-content">
+                    <h3>FB Sirikorn Puaut</h3>
+                    <ul class="plan-features">
+                        <li>รับปั้มเหรียญยุทธ เฉพาะ SV ไม่เต็ม</li>
+                        <li>รับทำ สว่างใส</li>
+                        <li>รับกด ป้ายดี และอื่นๆ</li>
+                    </ul>
+                    <p class="discount-info">มาจาก 9WING.SHOP รับส่วนลดสูงสุดถึง 20%</p>
+                    <a href="https://www.m.me/Sirikorn.Puaut.2024" class="cyber-button">สั่งซื้อผ่าน FB</a>
+                </div>
+            </div>
+
+            <!-- Card 2 -->
+            <div class="feature-card">
+                <div class="feature-icon">🚀</div>
+                <div class="card-content">
+                    <h3>FB I'NUT KPP</h3>
+                    <ul class="plan-features">
+                        <li>รับทำ สว่างใส</li>
+                        <li>รับกด ป้ายดี และอื่นๆ</li>
+                        <li>-</li>
+                    </ul>
+                    <p class="discount-info">มาจาก 9WING.SHOP รับส่วนลดสูงสุดถึง 20%</p>
+                    <a href="https://www.m.me/kuamnaj.ponpartom.1" class="cyber-button">สั่งซื้อผ่าน FB</a>
+                </div>
+            </div>
+
+            <!-- Card 3 -->
+            <div class="feature-card">
+                <div class="feature-icon">📌</div>
+                <div class="card-content">
+                    <h3>FB เหรียญ ยุทธ</h3>
+                    <ul class="plan-features">
+                        <li>รับปั้มเหรียญยุทธ เฉพาะ SV ไม่เต็ม</li>
+                        <li>รับทำ สว่างใส</li>
+                        <li>และอื่นๆ</li>
+                    </ul>
+                    <p class="discount-info">มาจาก 9WING.SHOP รับส่วนลดสูงสุดถึง 20%</p>
+                    <a href="https://m.me/61577729183255?hash=abba1pq7bbsx7t1d&source=qr" class="cyber-button">สั่งซื้อผ่าน FB</a>
+                </div>
+            </div>
+
+            <!-- Card 4 -->
+            <div class="feature-card">
+                <div class="feature-icon">📌</div>
+                <div class="card-content">
+                    <h3>FB 9WING.SHOP</h3>
+                    <ul class="plan-features">
+                        <li>-</li>
+                        <li>-</li>
+                        <li>-</li>
+                    </ul>
+                    <p class="discount-info">มาจาก 9WING.SHOP รับส่วนลดสูงสุดถึง 20%</p>
+                    <a href="https://9WING.SHOP" class="cyber-button">สั่งซื้อผ่าน FB</a>
+                </div>
+            </div>
+
+            <!-- Card 5 -->
+            <div class="feature-card">
+                <div class="feature-icon">📌</div>
+                <div class="card-content">
+                    <h3>FB 9WING.SHOP</h3>
+                    <ul class="plan-features">
+                        <li>-</li>
+                        <li>-</li>
+                        <li>-</li>
+                    </ul>
+                    <p class="discount-info">หากมาจาก 9WING.SHOP รับส่วนลดสูงสุดถึง 20%</p>
+                    <a href="https://9WING.SHOP" class="cyber-button">สั่งซื้อผ่าน FB</a>
+                </div>
+            </div>
+
+            <!-- Card 6 -->
+            <div class="feature-card">
+                <div class="feature-icon">📌</div>
+                <div class="card-content">
+                    <h3>FB 9WING.SHOP</h3>
+                    <ul class="plan-features">
+                        <li>-</li>
+                        <li>-</li>
+                        <li>-</li>
+                    </ul>
+                    <p class="discount-info">มาจาก 9WING.SHOP รับส่วนลดสูงสุดถึง 20%</p>
+                    <a href="https://9WING.SHOP" class="cyber-button">สั่งซื้อผ่าน FB</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+ <section class="features fade-up" id="features">
+    <div class="features-container">
+        <div class="section-header">
+            <h2 class="section-title">PRO YG Retro</h2>
+            <p class="section-subtitle">สอบถามรายละเอียดเพิ่มเติม หรือต้องการฟังชั่นอิ่นเพิ่มเติม ติดต่อใด้ใน FB</p>
+        </div>
+
+        <div class="features-grid">
+          
+            <!-- Card 4 -->
+            <div class="feature-card">
+                <div class="feature-icon">📢</div>
+                <div class="card-content">
+                    <h3>PRO ตีเร็ว (ธนูจะยิงไกล)</h3>
+					<p class="discount-info">7/DAY 200 บาท</p>
+                    <ul class="plan-features">
+                        <li>สกิวไม่คูลดาวน์</li>
+                        <li>รองรับ PC & มือถือ</li>
+                        <li>Auto กันแบน Anti Cheat</li>
+                    </ul>
+                    <p class="discount-info"></p>
+                    <a href="https://www.m.me/say.wing.656700" class="cyber-button">สั่งซื้อผ่าน FB</a>
+                </div>
+            </div>
+
+            <!-- Card 5 -->
+            <div class="feature-card">
+                <div class="feature-icon">📌</div>
+                <div class="card-content">
+                    <h3>Coming Soon !</h3>
+                    <ul class="plan-features">
+                        <li>-</li>
+                        <li>-</li>
+                        <li>-</li>
+                    </ul>
+                    <p class="discount-info">Unlimited 1 Device</p>
+                    <a href="https://9WING.SHOP" class="cyber-button">สั่งซื้อผ่าน FB</a>
+                </div>
+            </div>
+
+            <!-- Card 6 -->
+            <div class="feature-card">
+                <div class="feature-icon">📌</div>
+                <div class="card-content">                   
+					<h3>Coming Soon !</h3>
+                    <ul class="plan-features">
+                        <li>-</li>
+                        <li>-</li>
+                        <li>-</li>
+                    </ul>
+                    <p class="discount-info">Unlimited 1 Device</p>
+                    <a href="https://9WING.SHOP" class="cyber-button">สั่งซื้อผ่าน FB</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>	
+    <!-- Pricing Section -->
+    <section class="pricing fade-up" id="pricing">
+        <div class="pricing-container">
+            <div class="section-header">
+                <h2 class="section-title">PRO YG จุติยุทธภพเลือดใหม่</h2>
+                <p class="section-subtitle">สอบถามรายละเอียดเพิ่มเติม หรือต้องการฟังชั่นอิ่นเพิ่มเติม ติดต่อใด้ใน FB </p>
+            </div>
+            
+            <div class="pricing-grid">
+                <div class="pricing-card">
+                    <div class="plan-name">ปั้มยุทธ LV1</div>
+                    <div class="plan-price">500</div>
+                    <div class="plan-period">Unlimited 1 Device</div>
+                    <ul class="plan-features">
+                        <li>รองรับ PC & มือถือ</li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                    </ul>
+                    <a href="https://www.m.me/say.wing.656700" class="btn-secondary">สั่งซื้อ</a>
+                </div>
+                
+                <div class="pricing-card featured">
+                    <div class="plan-name">📌AUTO UPGRADE ตี +</div>
+                    <div class="plan-price">1,800</div>
+                    <div class="plan-period">Unlimited 1 Device</div>
+                    <ul class="plan-features">
+                        <li>ตี + AUTO</li>
+                        <li>เปิดกล่อง AUTO</li>
+                        <li>Bypass Anti Cheat</li>
+                        <li>Emulator Mumu player 12 PRO</li>
+                    </ul>
+                    <a href="https://www.m.me/say.wing.656700" class="btn-primary">สั่งซื้อ</a>
+                </div>
+                
+                <div class="pricing-card">
+                    <div class="plan-name">BYPASS CAPTCHA</div>
+                    <div class="plan-price">ปิดปรับปรุง</div>
+                    <div class="plan-period">30/DAY 1 Device</div>
+                    <ul class="plan-features">
+                        <li>เข้าเกมไม่ติด เลื่อนรูป </li>
+                        <li>ปลดล๊อค จำนวนล๊อคอิน</li>
+                        <li>Emulator Multiplayer</li>
+                        <li>Emulator Mumu player 12 PRO</li>
+                        <li></li>
+                        <li></li>
+                    </ul>
+                    <a href="https://www.m.me/say.wing.656700" class="btn-secondary">สั่งซื้อ</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="contact fade-up" id="contact">
+        <div class="contact-container">
+            <div class="section-header">
+                <h2 class="section-title">REVIEW PRO YG BY WING</h2>
+                <p class="section-subtitle">โปรดใช้วิจารณญาณในการรับชม</p>
+            </div>
+            <div class="contact-form-wrapper">
+                <div class="contact-form">
+				
+                 <iframe width="100%" height="390" src="https://www.youtube.com/embed/dCq3ol5zvFk?list=PLOcSH_6jJxRICye4Hzw2BigQYIc7oV3RA" title="รีป้ายดีออโต้ BY 9WING" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <button type="submit" class="btn-primary btn-submit">โปรดใช้วิจารณญาณในการรับชม</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="footer-links">
+                <a href="#">Privacy Policy</a>
+                <span class="footer-separator">•</span>
+                <a href="#">Terms of Service</a>
+                <span class="footer-separator">•</span>
+                <a href="#">Documentation</a>
+                <span class="footer-separator">•</span>
+                <a href="#">Contact Support</a>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 NexusFlow Systems. All realities reserved.</p>
+                <p class="footer-credit">Brought to you by <a href="https://9WING.SHOP" target="_blank" rel="noopener nofollow">9WING.SHOP</a></p>
+				<a href="http://guestscounter.com"><img src="http://guestscounter.com/count.php?c_style=139&id=1763291166" border=0 alt="free hits counter"></a><br><a href="http://guestscounter.com" style="font-size:9px;">.</a><br>
+            </div>
+        </div>
+    </footer>
+
+    <script src="templatemo-nexus-scripts.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
