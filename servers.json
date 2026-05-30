@@ -282,6 +282,13 @@
       "host": "43.134.94.77",
       "port": 8001,
       "enabled": true
+          },
+    {
+      "sid": 99,
+      "name": "S99",
+      "host": "43.128.71.85",
+      "port": 8001,
+      "enabled": true
     },
     {
       "sid": 98,
