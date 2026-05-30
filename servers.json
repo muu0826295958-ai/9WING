@@ -1861,9 +1861,9 @@
     {
       "sid": 266,
       "name": "S266",
-      "host": "ยังไม่มี IP",
+      "host": "43.156.2.137",
       "port": 8001,
-      "enabled": false
+      "enabled": true
     },
     {
       "sid": 267,
