@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-30T08:19:18Z",
+  "updated_at": "2026-05-30T08:28:35Z",
   "default_port": 8001,
   "servers": [
     {
@@ -8,28 +8,28 @@
       "name": "S1",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 2,
       "name": "S2",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 3,
       "name": "S3",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 4,
       "name": "S4",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 5,
@@ -43,84 +43,84 @@
       "name": "S6",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 7,
       "name": "S7",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 8,
       "name": "S8",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 9,
       "name": "S9",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 10,
       "name": "S10",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 11,
       "name": "S11",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 12,
       "name": "S12",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 13,
       "name": "S13",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 14,
       "name": "S14",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 15,
       "name": "S15",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 16,
       "name": "S16",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 17,
       "name": "S17",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 18,
@@ -134,315 +134,315 @@
       "name": "S19",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 20,
       "name": "S20",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 21,
       "name": "S21",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 22,
       "name": "S22",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 23,
       "name": "S23",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 24,
       "name": "S24",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 25,
       "name": "S25",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 26,
       "name": "S26",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 27,
       "name": "S27",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 28,
       "name": "S28",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 29,
       "name": "S29",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 30,
       "name": "S30",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 31,
       "name": "S31",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 32,
       "name": "S32",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 33,
       "name": "S33",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 34,
       "name": "S34",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 35,
       "name": "S35",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 36,
       "name": "S36",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 37,
       "name": "S37",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 38,
       "name": "S38",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 39,
       "name": "S39",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 40,
       "name": "S40",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 41,
       "name": "S41",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 42,
       "name": "S42",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 43,
       "name": "S43",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 44,
       "name": "S44",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 45,
       "name": "S45",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 46,
       "name": "S46",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 47,
       "name": "S47",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 48,
       "name": "S48",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 49,
       "name": "S49",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 50,
       "name": "S50",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 51,
       "name": "S51",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 52,
       "name": "S52",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 53,
       "name": "S53",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 54,
       "name": "S54",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 55,
       "name": "S55",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 56,
       "name": "S56",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 57,
       "name": "S57",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 58,
       "name": "S58",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 59,
       "name": "S59",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 60,
       "name": "S60",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 61,
       "name": "S61",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 62,
       "name": "S62",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 63,
       "name": "S63",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 64,
@@ -456,105 +456,105 @@
       "name": "S65",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 66,
       "name": "S66",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 67,
       "name": "S67",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 68,
       "name": "S68",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 69,
       "name": "S69",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 70,
       "name": "S70",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 71,
       "name": "S71",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 72,
       "name": "S72",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 73,
       "name": "S73",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 74,
       "name": "S74",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 75,
       "name": "S75",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 76,
       "name": "S76",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 77,
       "name": "S77",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 78,
       "name": "S78",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 79,
       "name": "S79",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 80,
@@ -575,112 +575,112 @@
       "name": "S82",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 83,
       "name": "S83",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 84,
       "name": "S84",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 85,
       "name": "S85",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 86,
       "name": "S86",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 87,
       "name": "S87",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 88,
       "name": "S88",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 89,
       "name": "S89",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 90,
       "name": "S90",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 91,
       "name": "S91",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 92,
       "name": "S92",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 93,
       "name": "S93",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 94,
       "name": "S94",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 95,
       "name": "S95",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 96,
       "name": "S96",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 97,
       "name": "S97",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 98,
@@ -701,175 +701,175 @@
       "name": "S100",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 101,
       "name": "S101",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 102,
       "name": "S102",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 103,
       "name": "S103",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 104,
       "name": "S104",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 105,
       "name": "S105",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 106,
       "name": "S106",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 107,
       "name": "S107",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 108,
       "name": "S108",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 109,
       "name": "S109",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 110,
       "name": "S110",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 111,
       "name": "S111",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 112,
       "name": "S112",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 113,
       "name": "S113",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 114,
       "name": "S114",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 115,
       "name": "S115",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 116,
       "name": "S116",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 117,
       "name": "S117",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 118,
       "name": "S118",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 119,
       "name": "S119",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 120,
       "name": "S120",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 121,
       "name": "S121",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 122,
       "name": "S122",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 123,
       "name": "S123",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 124,
       "name": "S124",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 125,
@@ -883,168 +883,168 @@
       "name": "S126",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 127,
       "name": "S127",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 128,
       "name": "S128",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 129,
       "name": "S129",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 130,
       "name": "S130",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 131,
       "name": "S131",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 132,
       "name": "S132",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 133,
       "name": "S133",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 134,
       "name": "S134",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 135,
       "name": "S135",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 136,
       "name": "S136",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 137,
       "name": "S137",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 138,
       "name": "S138",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 139,
       "name": "S139",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 140,
       "name": "S140",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 141,
       "name": "S141",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 142,
       "name": "S142",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 143,
       "name": "S143",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 144,
       "name": "S144",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 145,
       "name": "S145",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 146,
       "name": "S146",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 147,
       "name": "S147",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 148,
       "name": "S148",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 149,
       "name": "S149",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 150,
@@ -1058,161 +1058,161 @@
       "name": "S151",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 152,
       "name": "S152",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 153,
       "name": "S153",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 154,
       "name": "S154",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 155,
       "name": "S155",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 156,
       "name": "S156",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 157,
       "name": "S157",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 158,
       "name": "S158",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 159,
       "name": "S159",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 160,
       "name": "S160",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 161,
       "name": "S161",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 162,
       "name": "S162",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 163,
       "name": "S163",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 164,
       "name": "S164",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 165,
       "name": "S165",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 166,
       "name": "S166",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 167,
       "name": "S167",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 168,
       "name": "S168",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 169,
       "name": "S169",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 170,
       "name": "S170",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 171,
       "name": "S171",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 172,
       "name": "S172",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 173,
       "name": "S173",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 174,
@@ -1226,14 +1226,14 @@
       "name": "S175",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 176,
       "name": "S176",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 177,
@@ -1247,49 +1247,49 @@
       "name": "S178",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 179,
       "name": "S179",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 180,
       "name": "S180",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 181,
       "name": "S181",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 182,
       "name": "S182",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 183,
       "name": "S183",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 184,
       "name": "S184",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 185,
@@ -1303,91 +1303,91 @@
       "name": "S186",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 187,
       "name": "S187",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 188,
       "name": "S188",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 189,
       "name": "S189",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 190,
       "name": "S190",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 191,
       "name": "S191",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 192,
       "name": "S192",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 193,
       "name": "S193",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 194,
       "name": "S194",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 195,
       "name": "S195",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 196,
       "name": "S196",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 197,
       "name": "S197",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 198,
       "name": "S198",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 199,
@@ -1401,49 +1401,49 @@
       "name": "S200",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 201,
       "name": "S201",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 202,
       "name": "S202",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 203,
       "name": "S203",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 204,
       "name": "S204",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 205,
       "name": "S205",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 206,
       "name": "S206",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 207,
@@ -1457,98 +1457,98 @@
       "name": "S208",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 209,
       "name": "S209",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 210,
       "name": "S210",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 211,
       "name": "S211",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 212,
       "name": "S212",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 213,
       "name": "S213",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 214,
       "name": "S214",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 215,
       "name": "S215",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 216,
       "name": "S216",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 217,
       "name": "S217",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 218,
       "name": "S218",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 219,
       "name": "S219",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 220,
       "name": "S220",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 221,
       "name": "S221",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 222,
@@ -1562,210 +1562,210 @@
       "name": "S223",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 224,
       "name": "S224",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 225,
       "name": "S225",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 226,
       "name": "S226",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 227,
       "name": "S227",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 228,
       "name": "S228",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 229,
       "name": "S229",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 230,
       "name": "S230",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 231,
       "name": "S231",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 232,
       "name": "S232",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 233,
       "name": "S233",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 234,
       "name": "S234",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 235,
       "name": "S235",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 236,
       "name": "S236",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 237,
       "name": "S237",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 238,
       "name": "S238",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 239,
       "name": "S239",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 240,
       "name": "S240",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 241,
       "name": "S241",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 242,
       "name": "S242",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 243,
       "name": "S243",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 244,
       "name": "S244",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 245,
       "name": "S245",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 246,
       "name": "S246",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 247,
       "name": "S247",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 248,
       "name": "S248",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 249,
       "name": "S249",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 250,
       "name": "S250",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 251,
       "name": "S251",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 252,
       "name": "S252",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 253,
@@ -1779,168 +1779,168 @@
       "name": "S254",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 255,
       "name": "S255",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 256,
       "name": "S256",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 257,
       "name": "S257",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 258,
       "name": "S258",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 259,
       "name": "S259",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 260,
       "name": "S260",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 261,
       "name": "S261",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 262,
       "name": "S262",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 263,
       "name": "S263",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 264,
       "name": "S264",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 265,
       "name": "S265",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 266,
       "name": "S266",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 267,
       "name": "S267",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 268,
       "name": "S268",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 269,
       "name": "S269",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 270,
       "name": "S270",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 271,
       "name": "S271",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 272,
       "name": "S272",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 273,
       "name": "S273",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 274,
       "name": "S274",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 275,
       "name": "S275",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 276,
       "name": "S276",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 277,
       "name": "S277",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 278,
@@ -1961,7 +1961,7 @@
       "name": "S280",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 281,
@@ -1975,196 +1975,196 @@
       "name": "S282",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 283,
       "name": "S283",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 284,
       "name": "S284",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 285,
       "name": "S285",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 286,
       "name": "S286",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 287,
       "name": "S287",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 288,
       "name": "S288",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 289,
       "name": "S289",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 290,
       "name": "S290",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 291,
       "name": "S291",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 292,
       "name": "S292",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 293,
       "name": "S293",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 294,
       "name": "S294",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 295,
       "name": "S295",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 296,
       "name": "S296",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 297,
       "name": "S297",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 298,
       "name": "S298",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 299,
       "name": "S299",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 300,
       "name": "S300",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 301,
       "name": "S301",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 302,
       "name": "S302",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 303,
       "name": "S303",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 304,
       "name": "S304",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 305,
       "name": "S305",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 306,
       "name": "S306",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 307,
       "name": "S307",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 308,
       "name": "S308",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 309,
       "name": "S309",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 310,
@@ -2367,280 +2367,280 @@
       "name": "S338",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 339,
       "name": "S339",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 340,
       "name": "S340",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 341,
       "name": "S341",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 342,
       "name": "S342",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 343,
       "name": "S343",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 344,
       "name": "S344",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 345,
       "name": "S345",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 346,
       "name": "S346",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 347,
       "name": "S347",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 348,
       "name": "S348",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 349,
       "name": "S349",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 350,
       "name": "S350",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 351,
       "name": "S351",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 352,
       "name": "S352",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 353,
       "name": "S353",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 354,
       "name": "S354",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 355,
       "name": "S355",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 356,
       "name": "S356",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 357,
       "name": "S357",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 358,
       "name": "S358",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 359,
       "name": "S359",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 360,
       "name": "S360",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 361,
       "name": "S361",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 362,
       "name": "S362",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 363,
       "name": "S363",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 364,
       "name": "S364",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 365,
       "name": "S365",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 366,
       "name": "S366",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 367,
       "name": "S367",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 368,
       "name": "S368",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 369,
       "name": "S369",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 370,
       "name": "S370",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 371,
       "name": "S371",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 372,
       "name": "S372",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 373,
       "name": "S373",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 374,
       "name": "S374",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 375,
       "name": "S375",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 376,
       "name": "S376",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 377,
       "name": "S377",
       "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     }
   ]
 }
