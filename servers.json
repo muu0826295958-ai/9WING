@@ -265,9 +265,9 @@
     {
       "sid": 38,
       "name": "S38",
-      "host": "ยังไม่มี IP",
+      "host": "43.133.60.27",
       "port": 8001,
-      "enabled": false
+      "enabled": true
     },
     {
       "sid": 39,
