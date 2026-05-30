@@ -1789,11 +1789,11 @@
       "enabled": false
     },
     {
-      "sid": 256,
-      "name": "S256",
-      "host": "ยังไม่มี IP",
+      "sid": 256-272,
+      "name": "S256-272",
+      "host": "43.156.2.137",
       "port": 8001,
-      "enabled": false
+      "enabled": true
     },
     {
       "sid": 257,
