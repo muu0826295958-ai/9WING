@@ -1,0 +1,329 @@
+{
+  "version": 1,
+  "updated_at": "2026-05-29T11:24:29Z",
+  "default_port": 8001,
+  "servers": [
+    {
+      "sid": 337,
+      "name": "S337",
+      "host": "43.134.81.182",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 336,
+      "name": "S336",
+      "host": "43.156.118.165",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 335,
+      "name": "S335",
+      "host": "43.134.44.98",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 334,
+      "name": "S334",
+      "host": "129.226.202.80",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 333,
+      "name": "S333",
+      "host": "43.156.52.125",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 332,
+      "name": "S332",
+      "host": "43.163.117.193",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 331,
+      "name": "S331",
+      "host": "43.134.180.253",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 330,
+      "name": "S330",
+      "host": "43.156.72.42",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 329,
+      "name": "S329",
+      "host": "43.134.250.5",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 328,
+      "name": "S328",
+      "host": "129.226.209.228",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 327,
+      "name": "S327",
+      "host": "43.134.78.244",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 326,
+      "name": "S326",
+      "host": "43.134.239.192",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 325,
+      "name": "S325",
+      "host": "43.156.232.8",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 324,
+      "name": "S324",
+      "host": "43.159.51.98",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 323,
+      "name": "S323",
+      "host": "43.134.89.218",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 322,
+      "name": "S322",
+      "host": "43.134.45.222",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 321,
+      "name": "S321",
+      "host": "43.134.176.230",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 320,
+      "name": "S320",
+      "host": "43.156.138.136",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 319,
+      "name": "S319",
+      "host": "43.156.97.101",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 318,
+      "name": "S318",
+      "host": "43.134.74.245",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 317,
+      "name": "S317",
+      "host": "150.109.21.123",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 316,
+      "name": "S316",
+      "host": "43.134.55.94",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 315,
+      "name": "S315",
+      "host": "43.128.81.232",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 314,
+      "name": "S314",
+      "host": "43.163.84.169",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 313,
+      "name": "S313",
+      "host": "43.128.81.232",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 312,
+      "name": "S312",
+      "host": "43.156.116.80",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 311,
+      "name": "S311",
+      "host": "43.153.211.175",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 310,
+      "name": "S310",
+      "host": "43.163.89.13",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 281,
+      "name": "S281",
+      "host": "129.226.211.74",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 279,
+      "name": "S279",
+      "host": "129.226.211.74",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 278,
+      "name": "S278",
+      "host": "129.226.211.74",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 253,
+      "name": "S253",
+      "host": "43.134.95.66",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 222,
+      "name": "S222",
+      "host": "43.163.89.134",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 207,
+      "name": "S207",
+      "host": "43.128.106.37",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 199,
+      "name": "S199",
+      "host": "43.134.18.229",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 185,
+      "name": "S185",
+      "host": "43.163.113.16",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 177,
+      "name": "S177",
+      "host": "129.226.196.58",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 174,
+      "name": "S174",
+      "host": "129.226.196.58",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 150,
+      "name": "S150",
+      "host": "43.156.116.12",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 125,
+      "name": "S125",
+      "host": "43.134.94.77",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 98,
+      "name": "S98",
+      "host": "43.156.174.110",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 81,
+      "name": "S81",
+      "host": "43.156.134.62",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 80,
+      "name": "S80",
+      "host": "43.156.134.62",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 64,
+      "name": "S64",
+      "host": "43.156.57.97",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 18,
+      "name": "S18",
+      "host": "119.28.105.37",
+      "port": 8001,
+      "enabled": true
+    },
+    {
+      "sid": 5,
+      "name": "S5",
+      "host": "43.134.228.198",
+      "port": 8001,
+      "enabled": true
+    }
+  ]
+}
