@@ -1125,10 +1125,10 @@
     },
     {
       "sid": 161,
-      "name": "S161",
-      "host": "ยังไม่มี IP",
+      "name": "S161-172",
+      "host": "124.156.203.62",
       "port": 8001,
-      "enabled": false
+      "enabled": true
     },
     {
       "sid": 162,
