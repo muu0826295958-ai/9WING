@@ -517,9 +517,9 @@
     {
       "sid": 74,
       "name": "S74",
-      "host": "ยังไม่มี IP",
+      "host": "43.153.222.80",
       "port": 8001,
-      "enabled": false
+      "enabled": true
     },
     {
       "sid": 75,
