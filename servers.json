@@ -281,7 +281,7 @@
       "name": "S40",
       "host": "43.153.206.56",
       "port": 8001,
-      "enabled": false
+      "enabled": true
     },
     {
       "sid": 41,
