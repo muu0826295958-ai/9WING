@@ -1637,9 +1637,9 @@
     {
       "sid": 234,
       "name": "S234",
-      "host": "ยังไม่มี IP",
+      "host": "43.156.129.206",
       "port": 8001,
-      "enabled": false
+      "enabled": true
     },
     {
       "sid": 235,
