@@ -376,10 +376,10 @@
     },
     {
       "sid": 54,
-      "name": "S54",
-      "host": "ยังไม่มี IP",
+      "name": "S54-S57",
+      "host": "43.134.17.83",
       "port": 8001,
-      "enabled": false
+      "enabled": true
     },
     {
       "sid": 55,
