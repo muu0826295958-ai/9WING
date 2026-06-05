@@ -1062,10 +1062,10 @@
     },
     {
       "sid": 152,
-      "name": "S152",
-      "host": "ยังไม่มี IP",
+      "name": "S152-S160",
+      "host": "43.159.41.26",
       "port": 8001,
-      "enabled": false
+      "enabled": true
     },
     {
       "sid": 153,
