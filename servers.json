@@ -698,10 +698,10 @@
     },
     {
       "sid": 100,
-      "name": "S100",
-      "host": "ยังไม่มี IP",
+      "name": "S100-S104",
+      "host": "43.156.242.152",
       "port": 8001,
-      "enabled": false
+      "enabled": true
     },
     {
       "sid": 101,
