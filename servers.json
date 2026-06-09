@@ -733,10 +733,10 @@
     },
     {
       "sid": 105,
-      "name": "S105",
-      "host": "ยังไม่มี IP",
+      "name": "S105-S111",
+      "host": "43.159.47.218",
       "port": 8001,
-      "enabled": false
+      "enabled": true
     },
     {
       "sid": 106,
