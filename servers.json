@@ -327,10 +327,10 @@
     },
     {
       "sid": 47,
-      "name": "S47",
-      "host": "ยังไม่มี IP",
+      "name": "S47-S53",
+      "host": "43.153.226.195",
       "port": 8001,
-      "enabled": false
+      "enabled": true
     },
     {
       "sid": 48,
