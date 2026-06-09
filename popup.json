@@ -1,0 +1,12 @@
+{
+  "maintenance_enabled": true,
+  "maintenance_text": "ระบบออนไลน์ตามปกติ",
+  "popup": {
+    "enabled": true,
+    "id": "popup-001",
+    "title": "ประกาศจาก 9WING.SHOP",
+    "message": "ระบบพร้อมใช้งานแล้ว\nหากพบปัญหาให้ติดต่อแอดมิน",
+    "button_text": "รับทราบ",
+    "show_once": false
+  }
+}
