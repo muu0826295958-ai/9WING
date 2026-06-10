@@ -33,7 +33,7 @@
     },
     {
       "sid": 5,
-      "name": "📶S5",
+      "name": "S5",
       "host": "43.134.228.198",
       "port": 8001,
       "enabled": true
@@ -691,7 +691,7 @@
     },
     {
       "sid": 99,
-      "name": "S99",
+      "name": "📌 S99",
       "host": "43.128.71.85",
       "port": 8001,
       "enabled": true
