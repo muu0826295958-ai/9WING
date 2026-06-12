@@ -1,13 +1,18 @@
 {
-  "name": "buy_3",
-  "title_th": "ซื้อป้ายดี 3",
+  "name": "buy_2",
+  "title_th": "รัวสกิว",
   "floating_group": "ฟังก์ชั่นเสริม",
-  "enabled": false,
-  "validation_error": "HEX เดิมมีค่า '0h' ซึ่งไม่ใช่เลขฐาน 16 จึงยังไม่ผูกส่งจริง",
-  "original_hex": "00 00 00 10 00 00 2E E3 00 02 08 07 10 03 18 0h",
-  "cooldown_ms": 1200,
-  "loop": false,
-  "action": "disabled_invalid_hex",
-  "packets": [],
-  "after_action": "none"
+  "cooldown_ms": 500,
+  "loop": true,
+  "loop_mode": "toggle_until_pressed_again",
+  "loop_interval_ms": 1200,
+  "stop_on_second_press": true,
+  "action": "send_packet_sequence",
+  "after_action": "refresh_bag",
+  "packets": [
+    {
+      "step": 1,
+      "hex": "00 00 00 1B 00 01 0D 89 00 02 08 82 76 10 D3 9E AE D8 E5 B7 8C 0A 18 4E 20 AA 0100 00 00 1B 00 01 0D 89 00 02 08 82 76 10 D3 9E AE D8 E5 B7 8C 0A 18 4E 20 AA 0100 00 00 1B 00 01 0D 89 00 02 08 82 76 10 D3 9E AE D8 E5 B7 8C 0A 18 4E 20 AA 01"
+    }
+  ]
 }
