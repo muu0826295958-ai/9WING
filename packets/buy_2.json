@@ -1,6 +1,6 @@
 {
   "name": "buy_5",
-  "title_th": "ตัดหิน",
+  "title_th": "ตัดหินทุกวัน",
   "floating_group": "ฟังก์ชั่นเสริม",
   "cooldown_ms": 1200,
   "loop": true,
