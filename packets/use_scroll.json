@@ -1,8 +1,0 @@
-{
-  "name": "use_scroll",
-  "title_th": "ใส่ยัน",
-  "floating_group": "ฟังก์ชั่นเสริม",
-  "action": "open_protect_scroll_page",
-  "page": "SAFE_SCROLL",
-  "note_th": "เปิดหน้าเลือกยันใน Floating แล้วเลือกเปอร์เซ็นต์หรือ itemId ที่ตั้งไว้"
-}
