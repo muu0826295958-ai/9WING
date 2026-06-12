@@ -1,8 +1,8 @@
 {
   "name": "buy_2",
-  "title_th": "ซื้อป้ายดี 2",
+  "title_th": "ตัดหิน",
   "floating_group": "ฟังก์ชั่นเสริม",
-  "cooldown_ms": 1200,
+  "cooldown_ms": 500,
   "loop": true,
   "loop_mode": "toggle_until_pressed_again",
   "loop_interval_ms": 1200,
@@ -12,7 +12,7 @@
   "packets": [
     {
       "step": 1,
-      "hex": "00 00 00 10 00 00 2E E3 00 02 08 07 10 03 18 01"
+      "hex": "00 00 00 0E 00 00 2E E3 00 02 08 07 18 01"
     }
   ]
 }
