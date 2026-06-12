@@ -1,6 +1,6 @@
 {
-  "name": "buy_good_sign",
-  "title_th": "ซื้อป้ายดี",
+  "name": "buy_1",
+  "title_th": "ซื้อป้ายดี 1",
   "floating_group": "ฟังก์ชั่นเสริม",
   "cooldown_ms": 1200,
   "loop": true,
@@ -9,7 +9,6 @@
   "stop_on_second_press": true,
   "action": "send_packet_sequence",
   "after_action": "refresh_bag",
-  "alias_of": "buy_1.json",
   "packets": [
     {
       "step": 1,

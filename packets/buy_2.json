@@ -1,6 +1,6 @@
 {
-  "name": "buy_good_sign",
-  "title_th": "ซื้อป้ายดี",
+  "name": "buy_2",
+  "title_th": "ซื้อป้ายดี 2",
   "floating_group": "ฟังก์ชั่นเสริม",
   "cooldown_ms": 1200,
   "loop": true,
@@ -9,15 +9,10 @@
   "stop_on_second_press": true,
   "action": "send_packet_sequence",
   "after_action": "refresh_bag",
-  "alias_of": "buy_1.json",
   "packets": [
     {
       "step": 1,
-      "hex": "00 00 00 0F 00 00 2E E7 00 02 08 B9 17 10 01"
-    },
-    {
-      "step": 2,
-      "hex": "00 00 00 12 00 00 2E E3 00 02 08 B9 17 10 FB 1F 18 01"
+      "hex": "00 00 00 10 00 00 2E E3 00 02 08 07 10 03 18 01"
     }
   ]
 }

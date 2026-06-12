@@ -1,9 +1,13 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "updated": "2026-06-12",
-  "description": "Floating extra function packet/config manifest loaded after LOGIN KEY is validated.",
+  "description": "Floating extra function packet/config manifest loaded after LOGIN KEY is validated. V25 adds buy_1..buy_4 packet files.",
   "files": [
     "buy_good_sign.json",
+    "buy_1.json",
+    "buy_2.json",
+    "buy_3.json",
+    "buy_4.json",
     "use_scroll.json",
     "refresh_bag.json",
     "enhance_now.json"

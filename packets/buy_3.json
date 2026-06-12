@@ -1,0 +1,13 @@
+{
+  "name": "buy_3",
+  "title_th": "ซื้อป้ายดี 3",
+  "floating_group": "ฟังก์ชั่นเสริม",
+  "enabled": false,
+  "validation_error": "HEX เดิมมีค่า '0h' ซึ่งไม่ใช่เลขฐาน 16 จึงยังไม่ผูกส่งจริง",
+  "original_hex": "00 00 00 10 00 00 2E E3 00 02 08 07 10 03 18 0h",
+  "cooldown_ms": 1200,
+  "loop": false,
+  "action": "disabled_invalid_hex",
+  "packets": [],
+  "after_action": "none"
+}
