@@ -1,6 +1,6 @@
 {
   "name": "buy_10",
-  "title_th": "ซื้อป้ายดี 10",
+  "title_th": "รออัพเดต",
   "floating_group": "ฟังก์ชั่นเสริม",
   "enabled": false,
   "cooldown_ms": 1200,
