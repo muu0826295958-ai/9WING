@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "updated": "2026-06-12",
+  "description": "Floating extra function packet/config manifest loaded after LOGIN KEY is validated.",
+  "files": [
+    "buy_good_sign.json",
+    "use_scroll.json",
+    "refresh_bag.json",
+    "enhance_now.json"
+  ]
+}

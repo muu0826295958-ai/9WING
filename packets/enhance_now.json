@@ -1,0 +1,11 @@
+{
+  "name": "enhance_now",
+  "title_th": "ตีบวกทันที",
+  "floating_group": "ฟังก์ชั่นเสริม",
+  "action": "run_upgrade_now",
+  "safe_guard": {
+    "stop_at_target": true,
+    "max_target_plus": 6,
+    "no_retry_final_step_without_confirm": true
+  }
+}

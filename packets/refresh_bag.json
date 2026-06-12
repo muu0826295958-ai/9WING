@@ -1,0 +1,7 @@
+{
+  "name": "refresh_bag",
+  "title_th": "รีเฟรชกระเป๋า",
+  "floating_group": "ฟังก์ชั่นเสริม",
+  "action": "request_bag_info",
+  "after_action": "update_box_and_stone_count"
+}
