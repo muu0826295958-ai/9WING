@@ -1,0 +1,19 @@
+{
+  "name": "buy_3",
+  "title_th": "รัวสกิว",
+  "floating_group": "ฟังก์ชั่นเสริม",
+  "cooldown_ms": 500,
+  "loop": true,
+  "loop_mode": "toggle_until_pressed_again",
+  "loop_interval_ms": 500,
+  "stop_on_second_press": true,
+  "action": "send_packet_sequence",
+  "after_action": "refresh_bag",
+  "packets": [
+    {
+      "step": 1,
+      "hex": "00 00 00 1B 00 01 0D 89 00 02 08 82 76 10 D3 9E AE D8 E5 B7 8C 0A 18 4E 20 AA 01 00 00 00 1B 00 01 0D 89 00 02 08 82 76 10 D3 9E AE D8 E5 B7 8C 0A 18 4E 20 AA 01 00 00 00 1B 00 01 0D 89 00 02 08 82 76 10 D3 9E AE D8 E5 B7 8C 0A 18 4E 20 AA 01"
+    }
+  ],
+  "enabled": true
+}
