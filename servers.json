@@ -2136,7 +2136,7 @@
       "name": "🍀 S305-S308",
       "host": "43.156.83.49",
       "port": 8001,
-      "enabled": false
+      "enabled": true
     },
     {
       "sid": 306,
