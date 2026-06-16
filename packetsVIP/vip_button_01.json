@@ -1,10 +1,10 @@
 {
-  "name": "VIP BUTTON 01",
+  "name": "หายตัว รัวสกิว",
   "action": "vip_button_01",
   "packets": [
-    "ใส่_packet_ของปุ่มนี้ตรงนี้"
+    "00 00 00 1A 00 01 0D 89 00 02 08 8E 79 10 9F AE 89 E8 CD DB 9B 06 18 4D 20 00"
   ],
   "loop": false,
-  "loop_interval_ms": 1000,
+  "loop_interval_ms": 100,
   "after_action": "none"
 }
