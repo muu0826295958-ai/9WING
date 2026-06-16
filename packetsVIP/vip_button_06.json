@@ -1,0 +1,10 @@
+{
+  "name": "VIP BUTTON 06",
+  "action": "vip_button_06",
+  "packets": [
+    "ใส่_packet_ของปุ่มนี้ตรงนี้"
+  ],
+  "loop": false,
+  "loop_interval_ms": 1000,
+  "after_action": "none"
+}
