@@ -16,6 +16,6 @@
    }
   ],
   "loop": true,
-  "loop_interval_ms": 50,
+  "loop_interval_ms": 100,
   "after_action": "send_packet_sequence"
 }
