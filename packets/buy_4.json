@@ -1,19 +1,15 @@
 {
   "name": "buy_4",
-  "title_th": "กดยารัว",
+  "title_th": "รออัพเดต",
   "floating_group": "ฟังก์ชั่นเสริม",
+  "enabled": false,
   "cooldown_ms": 1200,
-  "loop": true,
+  "loop": false,
   "loop_mode": "toggle_until_pressed_again",
   "loop_interval_ms": 1200,
   "stop_on_second_press": true,
-  "action": "send_packet_sequence",
-  "after_action": "refresh_bag",
-  "packets": [
-    {
-      "step": 1,
-      "hex": "00 00 00 1B 00 00 27 14 00 02 08 02 10 EC 07 18 88 CB D7 E5 CB B8 9C 06 22 01 30 00 00 00 1B 00 00 27 14 00 02 08 02 10 ED 07 18 F9 B0 D5 E7 9A B8 9C 06 22 01 30 00 00 00 1B 00 00 27 14 00 02 08 02 10 ED 07 18 C7 A1 E9 D4 B2 B8 9C 06 22 01 30 00 00 00 1B 00 00 27 14 00 02 08 02 10 EE 07 18 8D 94 E7 C6 9A B8 9C 06 22 01 30 00 00 00 1B 00 00 27 14 00 02 08 02 10 F0 07 18 A1 87 DE F7 E4 B2 9C 06 22 01 30"
-    }
-  ],
-  "enabled": true
+  "action": "disabled_waiting_hex",
+  "after_action": "",
+  "packets": [],
+  "note": "ยังไม่มี HEX ที่ถูกต้อง ให้แก้ไฟล์นี้บน GitHub แล้ว Sync ใหม่"
 }
