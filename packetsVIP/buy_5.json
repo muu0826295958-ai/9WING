@@ -1,0 +1,23 @@
+{
+  "name": "buy_5",
+  "title_th": "ปั้มเงินพวง",
+  "floating_group": "ฟังก์ชั่นเสริม",
+  "cooldown_ms": 100,
+  "loop": true,
+  "loop_mode": "toggle_until_pressed_again",
+  "loop_interval_ms": 100,
+  "stop_on_second_press": true,
+  "action": "send_packet_sequence",
+  "after_action": "refresh_bag",
+  "packets": [
+    {
+      "step": 1,
+      "hex": "00 00 00 11 00 00 3E 81 00 02 08 BD BD 10 10 8F 4E"
+    },
+    {
+      "step": 2,
+      "hex": "00 00 00 11 00 00 3E 81 00 02 08 C0 BD 10 10 8F 4E"
+    }
+  ],
+  "enabled": true
+}

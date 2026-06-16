@@ -1,0 +1,15 @@
+{
+  "name": "buy_8",
+  "title_th": "รออัพเดต",
+  "floating_group": "ฟังก์ชั่นเสริม",
+  "enabled": false,
+  "cooldown_ms": 1200,
+  "loop": false,
+  "loop_mode": "toggle_until_pressed_again",
+  "loop_interval_ms": 1200,
+  "stop_on_second_press": true,
+  "action": "disabled_waiting_hex",
+  "after_action": "",
+  "packets": [],
+  "note": "ยังไม่มี HEX ที่ถูกต้อง ให้แก้ไฟล์นี้บน GitHub แล้ว Sync ใหม่"
+}
