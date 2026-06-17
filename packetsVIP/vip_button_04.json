@@ -1,10 +1,21 @@
 {
-  "name": "VIP BUTTON 04",
+  "name": "ฮิวหมูหวาน",
   "action": "vip_button_04",
   "packets": [
-    "ใส่_packet_ของปุ่มนี้ตรงนี้"
+    {
+      "step": 1,
+      "hex": "00 00 00 1C 00 01 0D 89 00 02 08 A4 6A 10 F7 DB ED F4 D6 D9 EB 03 18 A8 01 20 8F 00 00 00 00 1C 00 01 0D 89 00 02 08 A2 6A 10 F7 DB ED F4 D6 D9 EB 03 18 A8 01 20 8F 00"
+   },
+    {
+      "step": 2,
+      "hex": "00 00 00 1C 00 01 0D 89 00 02 08 A3 6A 10 F7 DB ED F4 D6 D9 EB 03 18 A8 01 20 8F 00 00 00 00 1C 00 01 0D 89 00 02 08 A5 6A 10 F7 DB ED F4 D6 D9 EB 03 18 A8 01 20 8F 00"
+   },
+    {
+      "step": 3,
+      "hex": "00 00 00 1C 00 01 0D 89 00 02 08 A7 6A 10 F7 DB ED F4 D6 D9 EB 03 18 A8 01 20 8F 00 00 00 00 1C 00 01 0D 89 00 02 08 A7 6A 10 F7 DB ED F4 D6 D9 EB 03 18 A8 01 20 8F 00"
+   }
   ],
-  "loop": false,
-  "loop_interval_ms": 1000,
-  "after_action": "none"
+  "loop": true,
+  "loop_interval_ms": 100,
+  "after_action": "send_packet_sequence"
 }
