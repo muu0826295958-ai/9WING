@@ -425,10 +425,10 @@
     },
     {
       "sid": 61,
-      "name": "S61",
-      "host": "ยังไม่มี IP",
+      "name": "😵‍💫 S61-S63",
+      "host": "129.226.201.227",
       "port": 8001,
-      "enabled": false
+      "enabled": true
     },
     {
       "sid": 62,
