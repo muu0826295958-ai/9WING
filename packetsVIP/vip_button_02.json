@@ -1,10 +1,21 @@
 {
-  "name": "VIP BUTTON 02",
+  "name": "ฮิวหมอจู๊ด",
   "action": "vip_button_02",
   "packets": [
-    "ใส่_packet_ของปุ่มนี้ตรงนี้"
+    {
+      "step": 1,
+      "hex": "00 00 00 1B 00 01 0D 89 00 02 08 81 BE 15 10 C3 FC D5 ED C3 D9 B3 02 18 32 20 00 00 00 00 1B 00 01 0D 89 00 02 08 81 BE 15 10 C3 FC D5 ED C3 D9 B3 02 18 32 20 00"
+   },
+    {
+      "step": 2,
+      "hex": "00 00 00 1A 00 01 0D 89 00 02 08 A3 6A 10 C3 FC D5 ED C3 D9 B3 02 18 32 20 00 00 00 00 1A 00 01 0D 89 00 02 08 A3 6A 10 C3 FC D5 ED C3 D9 B3 02 18 32 20 00"
+   },
+    {
+      "step": 3,
+      "hex": "00 00 00 1A 00 01 0D 89 00 02 08 A4 6A 10 C3 FC D5 ED C3 D9 B3 02 18 32 20 00 00 00 00 1A 00 01 0D 89 00 02 08 A4 6A 10 C3 FC D5 ED C3 D9 B3 02 18 32 20 00"
+   }
   ],
-  "loop": false,
-  "loop_interval_ms": 1000,
-  "after_action": "none"
+  "loop": true,
+  "loop_interval_ms": 100,
+  "after_action": "send_packet_sequence"
 }
