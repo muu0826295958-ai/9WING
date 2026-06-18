@@ -1,10 +1,13 @@
 {
-  "name": "VIP BUTTON 05",
+  "name": "รัวสกิว หมูกรอบ",
   "action": "vip_button_05",
   "packets": [
-    "ใส่_packet_ของปุ่มนี้ตรงนี้"
+    {
+      "step": 1,
+      "hex": "00 00 00 1B 00 01 0D 89 00 02 08 F2 77 10 A3 87 FC 9D 9D DC 9B 06 18 C5 01 20 00 00 00 00 1B 00 01 0D 89 00 02 08 F2 77 10 A3 87 FC 9D 9D DC 9B 06 18 C5 01 20 00 00 00 00 1B 00 01 0D 89 00 02 08 F2 77 10 A3 87 FC 9D 9D DC 9B 06 18 C5 01 20 00 00 00 00 1B 00 01 0D 89 00 02 08 F2 77 10 A3 87 FC 9D 9D DC 9B 06 18 C5 01 20 00 00 00 00 1B 00 01 0D 89 00 02 08 F2 77 10 A3 87 FC 9D 9D DC 9B 06 18 C5 01 20 00"
+   }
   ],
-  "loop": false,
-  "loop_interval_ms": 1000,
-  "after_action": "none"
+  "loop": true,
+  "loop_interval_ms": 100,
+  "after_action": "send_packet_sequence"
 }
