@@ -1,6 +1,14 @@
 {
-  "name": "หายตัว รัวสกิว",
-  "action": "vip_button_01",
+  "name": "vip_button_01",
+  "title_th": "รีป้ายดี",
+  "floating_group": "ฟังก์ชั่นเสริม",
+  "cooldown_ms": 200,
+  "loop": true,
+  "loop_mode": "toggle_until_pressed_again",
+  "loop_interval_ms": 200,
+  "stop_on_second_press": true,
+  "action": "send_packet_sequence",
+  "after_action": "refresh_bag",
   "packets": [
     {
       "step": 1,
@@ -11,7 +19,5 @@
       "hex": "00 00 00 1A 00 01 0D 89 00 02 08 8E 79 10 9F AE 89 E8 CD DB 9B 06 18 4D 20 00 00 00 00 1A 00 01 0D 89 00 02 08 8E 79 10 9F AE 89 E8 CD DB 9B 06 18 4D 20 00"
     }
   ],
-  "loop": true,
-  "loop_interval_ms": 100,
-  "after_action": "refresh_bag"
+  "enabled": true
 }
