@@ -13,5 +13,5 @@
   ],
   "loop": true,
   "loop_interval_ms": 100,
-  "after_action": "none"
+  "after_action": "refresh_bag"
 }
