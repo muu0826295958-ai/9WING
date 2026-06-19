@@ -11,3 +11,6 @@
   "loop_interval_ms": 100,
   "after_action": "send_packet_sequence"
 }
+
+
+00 00 00 1B 00 01 0D 89 00 02 08 F2 77 10 A3 87 FC 9D 9D DC 9B 06 18 C5 01 20 00
