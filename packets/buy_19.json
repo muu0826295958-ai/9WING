@@ -1,0 +1,14 @@
+{
+  "name": "buy_19",
+  "title_th": "ปุ่ม 19",
+  "floating_group": "ฟังก์ชั่นเสริม",
+  "cooldown_ms": 1200,
+  "loop": false,
+  "loop_mode": "",
+  "loop_interval_ms": 1200,
+  "stop_on_second_press": false,
+  "action": "disabled",
+  "after_action": "",
+  "packets": [],
+  "enabled": false
+}
