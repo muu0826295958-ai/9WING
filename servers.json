@@ -673,7 +673,7 @@
       "name": "💀 S93-S98",
       "host": "43.156.174.110",
       "port": 8001,
-      "enabled": false
+      "enabled": true
     },
     {
       "sid": 97,
