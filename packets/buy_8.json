@@ -7,7 +7,7 @@
   "loop_mode": "toggle_until_pressed_again",
   "loop_interval_ms": 5000,
   "stop_on_second_press": true,
-  "action": "send_random_packet",
+  "action": "send_packet_sequence",
   "after_action": "refresh_bag",
   "packets": [
     {
