@@ -5,22 +5,25 @@
   "cooldown_ms": 5000,
   "loop": true,
   "loop_mode": "toggle_until_pressed_again",
-  "loop_interval_ms": 5000,
+  "loop_interval_ms": 100,
   "stop_on_second_press": true,
   "action": "send_packet_sequence",
   "after_action": "refresh_bag",
   "packets": [
     {
-      "id": 1,
-      "hex": "00 00 00 0C 00 01 05 CF 00 02 08 01"
+      "step": 1,
+      "hex": "00 00 00 0C 00 01 05 CF 00 02 08 01",
+      "delay_ms": 5000
     },
     {
-      "id": 2,
-      "hex": "00 00 00 0C 00 01 05 CF 00 02 08 02"
+      "step": 2,
+      "hex": "00 00 00 0C 00 01 05 CF 00 02 08 02",
+      "delay_ms": 5000
     },
     {
-      "id": 3,
-      "hex": "00 00 00 0C 00 01 05 CF 00 02 08 03"
+      "step": 3,
+      "hex": "00 00 00 0C 00 01 05 CF 00 02 08 03",
+      "delay_ms": 5000
     }
   ],
   "enabled": true
