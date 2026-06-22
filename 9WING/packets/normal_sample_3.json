@@ -1,19 +1,15 @@
 {
   "name": "buy_3",
-  "title_th": "ตัดหิน",
+  "title_th": "โยน +6",
   "floating_group": "ฟังก์ชั่นเสริม",
-  "cooldown_ms": 100,
+  "enabled": true,
+  "cooldown_ms": 1200,
   "loop": true,
   "loop_mode": "toggle_until_pressed_again",
   "loop_interval_ms": 1200,
   "stop_on_second_press": true,
-  "action": "send_packet_sequence",
-  "after_action": "refresh_bag",
-  "packets": [
-    {
-      "step": 1,
-      "hex": "00 00 00 0E 00 00 2E E3 00 02 08 07 18 01"
-    }
-  ],
-  "enabled": true
+  "action": "drop_plus6_items",
+  "after_action": "",
+  "packets": [],
+  "note": "โยน +6ออกจากตัว"
 }
