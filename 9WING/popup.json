@@ -1,0 +1,35 @@
+{
+  "maintenance_enabled": false,
+  "maintenance_text": "ระบบออนไลน์ตามปกติ",
+  "popup": {
+    "enabled": true,
+    "id": "popup-001",
+    "title": "📣 ประกาศจาก 9WING.SHOP",
+    "message": "ระบบ Plugin / VIP พร้อมใช้งาน",
+    "button_text": "รับทราบ",
+    "show_once": false
+  },
+  "features": {
+    "plugin_system_enabled": true,
+    "normal_menu_enabled": true,
+    "vip_menu_enabled": true,
+    "floating_enabled": true,
+    "auto_box_enabled": true,
+    "auto_upgrade_enabled": true,
+    "emergency_stop_enabled": true,
+    "reload_config_enabled": true
+  },
+  "vip": {
+    "login_enabled": true,
+    "password": "9WINGVVIP",
+    "keys": [
+      "VIP-USER-001",
+      "VIP-USER-002",
+      "VIP-TEST-999"
+    ]
+  },
+  "online": {
+    "count": 0,
+    "text": "ออนไลน์ 0 คน"
+  }
+}
