@@ -1,6 +1,6 @@
 {
   "name": "buy_1",
-  "title_th": "ซื้อป้ายดี 1",
+  "title_th": "ซื้อป้ายดี",
   "floating_group": "ฟังก์ชั่นเสริม",
   "cooldown_ms": 1200,
   "loop": true,
