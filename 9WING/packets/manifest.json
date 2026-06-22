@@ -4,6 +4,13 @@
   "description": "Normal plugin files",
   "files": [
     "normal_sample_1.json",
-    "normal_sample_2.json"
+    "normal_sample_2.json",
+    "normal_sample_3.json",
+    "normal_sample_4.json",
+    "normal_sample_5.json",
+    "normal_sample_6.json",
+    "normal_sample_7.json",
+    "normal_sample_8.json",
+    "normal_sample_9.json"
   ]
 }
