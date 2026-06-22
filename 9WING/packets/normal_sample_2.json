@@ -1,0 +1,13 @@
+{
+  "name": "normal_sample_2",
+  "title_th": "ปุ่ม Normal ตัวอย่าง 2",
+  "floating_group": "ฟังก์ชั่นทั่วไป",
+  "enabled": false,
+  "vip_only": false,
+  "cooldown_ms": 1200,
+  "loop": true,
+  "stop_on_second_press": true,
+  "action": "packet_sequence",
+  "after_action": "refresh_bag",
+  "packets": []
+}
