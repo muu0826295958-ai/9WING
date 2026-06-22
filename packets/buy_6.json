@@ -1,19 +1,29 @@
 {
-  "name": "buy_6",
-  "title_th": "ซื้อป้ายดี 6",
+  "name": "skill_auto",
+  "title_th": "ผลิตชุด",
   "floating_group": "ฟังก์ชั่นเสริม",
-  "cooldown_ms": 1200,
+  "cooldown_ms": 150,
   "loop": true,
   "loop_mode": "toggle_until_pressed_again",
-  "loop_interval_ms": 1200,
+  "loop_interval_ms": 150,
   "stop_on_second_press": true,
   "action": "send_packet_sequence",
   "after_action": "refresh_bag",
   "packets": [
     {
-      "step": 1,
-      "hex": "00 00 00 10 00 00 2E E3 00 02 08 07 10 03 18 06"
+      "name": "Skill 89",
+      "packet": "00 00 00 10 00 00 0F A1 00 02 08 93 B2 0C 10 01",
+      "delay_ms": 150
+    },
+    {
+      "name": "Skill 94",
+      "packet": "00 00 00 10 00 00 0F A1 00 02 08 94 B2 0C 10 01",
+      "delay_ms": 150
+    },
+    {
+      "name": "Skill 91",
+      "packet": "00 00 00 10 00 00 0F A1 00 02 08 92 B2 0C 10 01",
+      "delay_ms": 150
     }
-  ],
-  "enabled": true
+  ]
 }
