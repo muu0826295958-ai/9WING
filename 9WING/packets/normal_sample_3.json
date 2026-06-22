@@ -1,1 +1,7 @@
-1
+{
+  "id": "buy_3",
+  "title": "ปุ่มใหม่",
+  "enabled": true,
+  "page": 1,
+  "packet_hex": "00 00 00 00"
+}
