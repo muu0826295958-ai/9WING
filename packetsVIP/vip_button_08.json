@@ -1,10 +1,23 @@
 {
-  "name": "VIP BUTTON 08",
-  "action": "vip_button_08",
+  "name": "vip_button_08",
+  "title_th": "รัวสกิวแบคอน",
+  "floating_group": "ฟังก์ชั่นเสริม",
+  "cooldown_ms": 100,
+  "loop": true,
+  "loop_mode": "toggle_until_pressed_again",
+  "loop_interval_ms": 100,
+  "stop_on_second_press": true,
+  "action": "send_packet_sequence",
+  "after_action": "refresh_bag",
   "packets": [
-    "ใส่_packet_ของปุ่มนี้ตรงนี้"
+    {
+      "step": 1,
+      "hex": "00 00 00 1B 00 01 0D 89 00 02 08 BA 79 10 DB 87 A1 98 C4 DB DB 06 18 37 20 C0 00 00 00 00 1B 00 01 0D 89 00 02 08 BA 79 10 DB 87 A1 98 C4 DB DB 06 18 37 20 C0 00"
+    },
+    {
+      "step": 2,
+      "hex": "00 00 00 1B 00 01 0D 89 00 02 08 BA 79 10 DB 87 A1 98 C4 DB DB 06 18 37 20 C0 00 00 00 00 1B 00 01 0D 89 00 02 08 BA 79 10 DB 87 A1 98 C4 DB DB 06 18 37 20 C0 00"
+    }
   ],
-  "loop": false,
-  "loop_interval_ms": 1000,
-  "after_action": "none"
+  "enabled": true
 }
