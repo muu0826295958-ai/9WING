@@ -607,10 +607,10 @@
     },
     {
       "sid": 87,
-      "name": "S87",
-      "host": "ยังไม่มี IP",
+      "name": "S87-S92",
+      "host": "43.156.111.245",
       "port": 8001,
-      "enabled": false
+      "enabled": true
     },
     {
       "sid": 88,
