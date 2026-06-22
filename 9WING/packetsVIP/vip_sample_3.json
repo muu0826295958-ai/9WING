@@ -1,6 +1,6 @@
 {
-  "name": "vip_sample_1",
-  "title_th": "VIP ปุ่ม 1",
+  "name": "vip_sample_3",
+  "title_th": "VIP ปุ่ม 3",
   "floating_group": "VIP",
   "enabled": true,
   "cooldown_ms": 1000,

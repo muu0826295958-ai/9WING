@@ -1,13 +1,17 @@
 {
   "name": "vip_sample_2",
-  "title_th": "ปุ่ม VIP วนลูปตัวอย่าง",
-  "floating_group": "VIP ฟังก์ชั่น",
-  "enabled": false,
-  "vip_only": true,
-  "cooldown_ms": 1200,
-  "loop": true,
-  "stop_on_second_press": true,
+  "title_th": "VIP ปุ่ม 2",
+  "floating_group": "VIP",
+  "enabled": true,
+  "cooldown_ms": 1000,
+  "loop": false,
+  "stop_on_second_press": false,
   "action": "packet_sequence",
   "after_action": "refresh_bag",
-  "packets": []
+  "packets": [
+    {
+      "step": 1,
+      "hex": "00 00 00 00"
+    }
+  ]
 }
