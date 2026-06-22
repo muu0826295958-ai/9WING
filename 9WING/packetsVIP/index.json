@@ -1,0 +1,16 @@
+{
+  "folder": "packetsVIP",
+  "main": "auto_hide.json",
+  "buttons": [
+    "vip_button_01.json",
+    "vip_button_02.json",
+    "vip_button_03.json",
+    "vip_button_04.json",
+    "vip_button_05.json",
+    "vip_button_06.json",
+    "vip_button_07.json",
+    "vip_button_08.json",
+    "vip_button_09.json",
+    "vip_button_10.json"
+  ]
+}

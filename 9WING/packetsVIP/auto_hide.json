@@ -1,0 +1,59 @@
+{
+  "name": "AUTO HIDE",
+  "action": "auto_hide",
+  "buttons": [
+    {
+      "title": "ปุ่ม 01",
+      "file": "packetsVIP/vip_button_01.json",
+      "action": "vip_button_01"
+    },
+    {
+      "title": "ปุ่ม 02",
+      "file": "packetsVIP/vip_button_02.json",
+      "action": "vip_button_02"
+    },
+    {
+      "title": "ปุ่ม 03",
+      "file": "packetsVIP/vip_button_03.json",
+      "action": "vip_button_03"
+    },
+    {
+      "title": "ปุ่ม 04",
+      "file": "packetsVIP/vip_button_04.json",
+      "action": "vip_button_04"
+    },
+    {
+      "title": "ปุ่ม 05",
+      "file": "packetsVIP/vip_button_05.json",
+      "action": "vip_button_05"
+    },
+    {
+      "title": "ปุ่ม 06",
+      "file": "packetsVIP/vip_button_06.json",
+      "action": "vip_button_06"
+    },
+    {
+      "title": "ปุ่ม 07",
+      "file": "packetsVIP/vip_button_07.json",
+      "action": "vip_button_07"
+    },
+    {
+      "title": "ปุ่ม 08",
+      "file": "packetsVIP/vip_button_08.json",
+      "action": "vip_button_08"
+    },
+    {
+      "title": "ปุ่ม 09",
+      "file": "packetsVIP/vip_button_09.json",
+      "action": "vip_button_09"
+    },
+    {
+      "title": "ปุ่ม 10",
+      "file": "packetsVIP/vip_button_10.json",
+      "action": "vip_button_10"
+    }
+  ],
+  "loop": true,
+  "loop_interval_ms": 100,
+  "after_action": "none"
+}
