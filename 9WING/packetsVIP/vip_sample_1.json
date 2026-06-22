@@ -1,0 +1,13 @@
+{
+  "name": "vip_sample_1",
+  "title_th": "ปุ่ม VIP ตัวอย่าง 1",
+  "floating_group": "VIP ฟังก์ชั่น",
+  "enabled": false,
+  "vip_only": true,
+  "cooldown_ms": 1200,
+  "loop": false,
+  "stop_on_second_press": false,
+  "action": "packet_sequence",
+  "after_action": "refresh_bag",
+  "packets": []
+}

@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "updated": "2026-06-21",
+  "description": "VIP plugin files",
+  "files": [
+    "vip_sample_1.json",
+    "vip_sample_2.json"
+  ]
+}
