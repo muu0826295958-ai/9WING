@@ -10,6 +10,6 @@
   "stop_on_second_press": true,
   "action": "drop_plus6_items",
   "after_action": "",
-  "packets": [],
+  "packets": [0],
   "note": "โยน +6ออกจากตัว"
 }
