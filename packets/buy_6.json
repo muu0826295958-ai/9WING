@@ -1,5 +1,5 @@
 {
-  "name": "skill_auto",
+  "name": "buy_6",
   "title_th": "ผลิตชุด",
   "floating_group": "ฟังก์ชั่นเสริม",
   "cooldown_ms": 150,
@@ -11,19 +11,17 @@
   "after_action": "refresh_bag",
   "packets": [
     {
-      "name": "Skill 89",
-      "packet": "00 00 00 10 00 00 0F A1 00 02 08 93 B2 0C 10 01",
-      "delay_ms": 150
+      "step": 1,
+      "hex": "00 00 00 10 00 00 0F A1 00 02 08 93 B2 0C 10 01"
     },
     {
-      "name": "Skill 94",
-      "packet": "00 00 00 10 00 00 0F A1 00 02 08 94 B2 0C 10 01",
-      "delay_ms": 150
+      "step": 2,
+      "hex": "00 00 00 10 00 00 0F A1 00 02 08 94 B2 0C 10 01"
     },
     {
-      "name": "Skill 91",
-      "packet": "00 00 00 10 00 00 0F A1 00 02 08 92 B2 0C 10 01",
-      "delay_ms": 150
+      "step": 3,
+      "hex": "00 00 00 10 00 00 0F A1 00 02 08 92 B2 0C 10 01"
     }
-  ]
+  ],
+  "enabled": true
 }
