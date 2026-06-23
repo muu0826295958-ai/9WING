@@ -1,15 +1,23 @@
 {
   "name": "buy_7",
-  "title_th": "โยน +6",
+  "title_th": "ปั้มเงินพวง",
   "floating_group": "ฟังก์ชั่นเสริม",
-  "enabled": false,
-  "cooldown_ms": 1200,
-  "loop": false,
+  "cooldown_ms": 150,
+  "loop": true,
   "loop_mode": "toggle_until_pressed_again",
-  "loop_interval_ms": 1200,
+  "loop_interval_ms": 150,
   "stop_on_second_press": true,
-  "action": "drop_plus6_items",
-  "after_action": "",
-  "packets": [],
-  "note": "โยน +6ออกจากตัว"
+  "action": "send_packet_sequence",
+  "after_action": "refresh_bag",
+  "packets": [
+    {
+      "step": 1,
+      "hex": "00 00 00 11 00 00 3E 81 00 02 08 C0 BD 10 10 8F 4E"
+    },
+    {
+      "step": 2,
+      "hex": "00 00 00 11 00 00 3E 81 00 02 08 BD BD 10 10 8F 4E"
+    }
+  ],
+  "enabled": true
 }
