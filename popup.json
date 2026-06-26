@@ -6,9 +6,9 @@
   "popup": {
     "enabled": true,
     "id": "popup-001",
-    "title": "📣 ประกาศจาก 9WING.SHOP",
-    "message": "ขณะนี้ทีมงานกำลังปรับปรุงฟังก์ชันเสริม ทำให้ไม่สามารถใช้งานได้ชั่วคราว\n\n✅ ฟังก์ชันตีบวกออโต้ยังใช้งานได้ตามปกติ\n\nเราจะกลับมาให้บริการฟังก์ชันเสริมในเร็ว ๆ นี้\n\n🙏 ขออภัยในความไม่สะดวกเป็นอย่างสูง",
-    "button_text": "ดาวน์โหลดแอป",
+    "title": "📣 ประกาศ Update APP V 9.3",
+    "message": "🆕 Update APP V 9.3 🙏 ",
+    "button_text": "Update V 9.3 ติดต่อ FB",
     "button_url": "https://github.com/muu0826295958-ai/9WING/raw/refs/heads/main/9WINGV9.3_sign.apk",
     "show_once": false
   }
