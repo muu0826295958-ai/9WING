@@ -1,6 +1,6 @@
 {
   "name": "buy_2",
-  "title_th": "โยน +6",
+  "title_th": "โยน +6 ออกจากตัว",
   "floating_group": "ฟังก์ชั่นเสริม",
   "enabled": true,
   "cooldown_ms": 100,
