@@ -2,26 +2,33 @@
   "name": "buy_9",
   "title_th": "ฟาร์มเปลี่ยนเส้น",
   "floating_group": "ฟังก์ชั่นเสริม",
+  "enabled": true,
+
   "cooldown_ms": 10000,
   "loop": true,
   "loop_mode": "toggle_until_pressed_again",
   "loop_interval_ms": 10000,
   "stop_on_second_press": true,
+
   "action": "send_packet_sequence",
+  "sequence_mode": "timed_steps",
   "after_action": "refresh_bag",
+
   "packets": [
     {
       "step": 1,
+      "delay_ms": 5000,
       "hex": "00 00 00 0C 00 01 05 CF 00 02 08 01"
     },
     {
       "step": 2,
+      "delay_ms": 7000,
       "hex": "00 00 00 0C 00 01 05 CF 00 02 08 02"
     },
     {
       "step": 3,
+      "delay_ms": 5000,
       "hex": "00 00 00 0C 00 01 05 CF 00 02 08 01"
     }
-  ],
-  "enabled": true
+  ]
 }
