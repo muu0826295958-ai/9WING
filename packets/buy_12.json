@@ -1,0 +1,15 @@
+{
+  "name": "buy_12",
+  "title_th": "ยิงสกิลล่าสุด 00",
+  "floating_group": "ฟังก์ชั่นเสริม",
+  "enabled": true,
+  "cooldown_ms": 1000,
+  "loop": true,
+  "loop_mode": "toggle_until_pressed_again",
+  "loop_interval_ms": 1000,
+  "stop_on_second_press": true,
+  "action": "replay_last_skill_69001_zero_last",
+  "after_action": "",
+  "packets": [],
+  "note": "กดสกิลจริงด้วยมือ 1 ครั้งก่อน แอปจะจับ packet opcode=69001 ล่าสุด แล้วปุ่มนี้จะยิง packet เดิมซ้ำโดยเปลี่ยน byte สุดท้ายเป็น 00 เช่น ... 18 7E 20 A1 01 -> ... 18 7E 20 A1 00 รองรับคนละตัว/คนละสกิลจาก packet ล่าสุด"
+}
