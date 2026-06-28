@@ -2393,9 +2393,9 @@
     {
       "sid": 342,
       "name": "S342",
-      "host": "ยังไม่มี IP",
+      "host": "43.156.105.197",
       "port": 8001,
-      "enabled": false
+      "enabled": true
     },
     {
       "sid": 343,
@@ -2636,11 +2636,11 @@
       "enabled": false
     },
     {
-      "sid": 342,
-      "name": "S342",
-      "host": "43.156.105.197",
+      "sid": 377,
+      "name": "S376",
+      "host": "ยังไม่มี IP",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     }
   ]
 }
