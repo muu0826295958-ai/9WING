@@ -2636,11 +2636,11 @@
       "enabled": false
     },
     {
-      "sid": 377,
-      "name": "S377",
-      "host": "ยังไม่มี IP",
+      "sid": 342,
+      "name": "S342",
+      "host": "43.156.105.197",
       "port": 8001,
-      "enabled": false
+      "enabled": true
     }
   ]
 }
