@@ -10,6 +10,6 @@
   "stop_on_second_press": true,
   "action": "plus6_sub_action_items",
   "after_action": "",
-  "packets": [0],
+  "packets": [],
   "note": "ย่อย +6 ในตัว"
 }
