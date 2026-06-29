@@ -1,15 +1,15 @@
 {
-  "maintenance_enabled": true,
-  "maintenance_text": "⚠️ กำลังปรับปรุงฟังก์ชันเสริมชั่วคราว ⚠️",
+  "maintenance_enabled": false,
+  "maintenance_text": "🟢 ทุกระบบพร้อมใช้งาน",
   "maintenance_blink": true,
   "maintenance_blink_color": true,
   "popup": {
     "enabled": true,
-    "id": "popup-001",
-    "title": "📣 ประกาศ Update APP V 9.4",
-    "message": "🆕 Update APP V 9.4  ขอลิ้งอัพเดทใด้ที่ FB เลยนะครับ รับรองว่าวิ่ง 🙏 ",
-    "button_text": "Update V 9.3 ติดต่อ FB",
-    "button_url": "https://github.com/muu0826295958-ai/9WING/raw/refs/heads/main/9WINGV9.3_sign.apk",
+    "id": "popup-v95-001",
+    "title": "📣 ประกาศอัปเดต APP V 9.5 ❗❗❗",
+    "message": "🆕 อัปเดต APP V 9.5 พร้อมใช้งานแล้ว\n\nรายการปรับปรุงในเวอร์ชันนี้\n\n🔰 เพิ่มระบบ AI คำนวณอัตราความสำเร็จในการใส่ยัน\n\n🔰 เพิ่มฟังก์ชัน “ย่อย +6 ในตัว”\n\n🔰 เพิ่มฟังก์ชัน PVP “หาตัวรัวสกิว”\n\n🔰 แก้ไขความเสถียรของระบบโดยรวม\n\n🙏 อัปเดตเป็นเวอร์ชันล่าสุด\nรับรองว่า วิ่ง",
+    "button_text": "อัปเดต V 9.5 ติดต่อ FB",
+    "button_url": "https://www.mediafire.com/file/uboa5vd5b8l3bce/9WING+V+9.5_sign.apk/file",
     "show_once": false
   }
 }
