@@ -11,5 +11,10 @@
   "action": "plus6_sub_action_items",
   "after_action": "",
   "packets": [],
-  "note": "ย่อย +6 ในตัว"
+  "confirm_before_action": true,
+  "confirm_title": "📌 กดผิดปล่าว",
+  "confirm_message": "⚠️ เห้ยๆ มึงจะย่อย +6 หรอ ⚠️",
+  "confirm_ok_text": "✔️",
+  "confirm_cancel_text": "❌",
+  "note": "ย่อย +6 ในตัว พร้อม popup ยืนยันก่อนทำงาน"
 }
