@@ -4,10 +4,10 @@
   "floating_group": "ฟังก์ชั่นเสริม",
   "enabled": true,
 
-  "cooldown_ms": 10000,
+  "cooldown_ms": 18000,
   "loop": true,
   "loop_mode": "toggle_until_pressed_again",
-  "loop_interval_ms": 10000,
+  "loop_interval_ms": 18000,
   "stop_on_second_press": true,
 
   "action": "send_packet_sequence",
