@@ -141,7 +141,7 @@
       "name": "😝 S20-S29",
       "host": "150.109.16.43",
       "port": 8001,
-      "enabled": false
+      "enabled": true
     },
     {
       "sid": 21,
