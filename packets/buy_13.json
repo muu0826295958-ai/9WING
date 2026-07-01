@@ -1,0 +1,14 @@
+{
+  "name": "buy_13",
+  "title_th": "กันบัฟแก้",
+  "floating_group": "ฟังก์ชั่นเสริม",
+  "enabled": true,
+  "cooldown_ms": 100,
+  "loop": false,
+  "loop_mode": "once",
+  "loop_interval_ms": 100,
+  "stop_on_second_press": true,
+  "action": "toggle_debuff_clear_guard",
+  "status_ids": [500603, 500604, 70001]
+  "note": "เปิด/ปิดระบบกันดีบัฟ"
+}
