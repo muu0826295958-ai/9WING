@@ -10,7 +10,7 @@
   "stop_on_second_press": true,
   "action": "replay_last_skill_69001_zero_last",
   "after_action": "",
-  "packets": [],
+  "packets": [0],
   "note": "หายตัวรัวสกิว",
   "set_last_byte_zero": true
 }
