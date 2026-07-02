@@ -10,7 +10,7 @@
   "stop_on_second_press": true,
   "action": "doctor_skill_set_69001_dynamic",
   "object_id_mode": "latest_69001",
-  "packet_gap_ms": 150,
+  "packet_gap_ms": 15,
   "skills": [
     {
       "skill_id": 13603,
@@ -19,13 +19,13 @@
       "delay_ms": 10
     },
     {
-      "skill_id": 13603,
+      "skill_id": 13604,
       "param_18": 54,
       "param_20": 0,
       "delay_ms": 10
     },
     {
-      "skill_id": 13604,
+      "skill_id": 13603,
       "param_18": 54,
       "param_20": 0,
       "delay_ms": 10
