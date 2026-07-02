@@ -1,23 +1,59 @@
 {
   "name": "vip_button_03",
-  "title_th": "ฮิวหมอ",
+  "title_th": "หายตัวฮิวหมอ",
   "floating_group": "VIP",
   "enabled": true,
-  "cooldown_ms": 150,
+  "cooldown_ms": 200,
   "loop": false,
   "loop_mode": "once",
-  "loop_interval_ms": 1000,
+  "loop_interval_ms": 200,
   "stop_on_second_press": false,
   "action": "doctor_skill_set_69001_dynamic",
   "object_id_mode": "latest_69001",
+  "packet_gap_ms": 100,
   "skills": [
-    { "skill_id": 13603, "param_18": 54, "param_20": 0, "delay_ms": 0 },
-    { "skill_id": 13603, "param_18": 54, "param_20": 0, "delay_ms": 100 },
-    { "skill_id": 13604, "param_18": 54, "param_20": 0, "delay_ms": 100 },
-    { "skill_id": 13604, "param_18": 54, "param_20": 0, "delay_ms": 100 },
-    { "skill_id": 13605, "param_18": 54, "param_20": 0, "delay_ms": 100 },
-    { "skill_id": 13607, "param_18": 54, "param_20": 0, "delay_ms": 100 },
-    { "skill_id": 352001, "param_18": 49, "param_20": 0, "delay_ms": 100 }
+    {
+      "skill_id": 13603,
+      "param_18": 54,
+      "param_20": 0,
+      "delay_ms": 0
+    },
+    {
+      "skill_id": 13603,
+      "param_18": 54,
+      "param_20": 0,
+      "delay_ms": 100
+    },
+    {
+      "skill_id": 13604,
+      "param_18": 54,
+      "param_20": 0,
+      "delay_ms": 100
+    },
+    {
+      "skill_id": 13604,
+      "param_18": 54,
+      "param_20": 0,
+      "delay_ms": 100
+    },
+    {
+      "skill_id": 13605,
+      "param_18": 54,
+      "param_20": 0,
+      "delay_ms": 100
+    },
+    {
+      "skill_id": 13607,
+      "param_18": 54,
+      "param_20": 0,
+      "delay_ms": 100
+    },
+    {
+      "skill_id": 352001,
+      "param_18": 49,
+      "param_20": 0,
+      "delay_ms": 100
+    }
   ],
-  "note": "ชุดสกิลหมอ  ตามตัวละครที่เข้าอยู่"
+  "note": "ชุดสกิลหมอ opcode 69001 เปลี่ยน object_id ตามตัวละครล่าสุดที่กดสกิลจริง 1 ครั้ง"
 }
