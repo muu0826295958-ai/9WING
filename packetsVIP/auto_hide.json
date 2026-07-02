@@ -51,9 +51,107 @@
       "title": "ปุ่ม 10",
       "file": "packetsVIP/vip_button_10.json",
       "action": "vip_button_10"
+    },
+    {
+      "title": "ปุ่ม 11",
+      "file": "packetsVIP/vip_button_11.json",
+      "action": "vip_button_11"
+    },
+    {
+      "title": "ปุ่ม 12",
+      "file": "packetsVIP/vip_button_12.json",
+      "action": "vip_button_12"
+    },
+    {
+      "title": "ปุ่ม 13",
+      "file": "packetsVIP/vip_button_13.json",
+      "action": "vip_button_13"
+    },
+    {
+      "title": "ปุ่ม 14",
+      "file": "packetsVIP/vip_button_14.json",
+      "action": "vip_button_14"
+    },
+    {
+      "title": "ปุ่ม 15",
+      "file": "packetsVIP/vip_button_15.json",
+      "action": "vip_button_15"
+    },
+    {
+      "title": "ปุ่ม 16",
+      "file": "packetsVIP/vip_button_16.json",
+      "action": "vip_button_16"
+    },
+    {
+      "title": "ปุ่ม 17",
+      "file": "packetsVIP/vip_button_17.json",
+      "action": "vip_button_17"
+    },
+    {
+      "title": "ปุ่ม 18",
+      "file": "packetsVIP/vip_button_18.json",
+      "action": "vip_button_18"
+    },
+    {
+      "title": "ปุ่ม 19",
+      "file": "packetsVIP/vip_button_19.json",
+      "action": "vip_button_19"
+    },
+    {
+      "title": "ปุ่ม 20",
+      "file": "packetsVIP/vip_button_20.json",
+      "action": "vip_button_20"
+    },
+    {
+      "title": "ปุ่ม 21",
+      "file": "packetsVIP/vip_button_21.json",
+      "action": "vip_button_21"
+    },
+    {
+      "title": "ปุ่ม 22",
+      "file": "packetsVIP/vip_button_22.json",
+      "action": "vip_button_22"
+    },
+    {
+      "title": "ปุ่ม 23",
+      "file": "packetsVIP/vip_button_23.json",
+      "action": "vip_button_23"
+    },
+    {
+      "title": "ปุ่ม 24",
+      "file": "packetsVIP/vip_button_24.json",
+      "action": "vip_button_24"
+    },
+    {
+      "title": "ปุ่ม 25",
+      "file": "packetsVIP/vip_button_25.json",
+      "action": "vip_button_25"
+    },
+    {
+      "title": "ปุ่ม 26",
+      "file": "packetsVIP/vip_button_26.json",
+      "action": "vip_button_26"
+    },
+    {
+      "title": "ปุ่ม 27",
+      "file": "packetsVIP/vip_button_27.json",
+      "action": "vip_button_27"
+    },
+    {
+      "title": "ปุ่ม 28",
+      "file": "packetsVIP/vip_button_28.json",
+      "action": "vip_button_28"
+    },
+    {
+      "title": "ปุ่ม 29",
+      "file": "packetsVIP/vip_button_29.json",
+      "action": "vip_button_29"
+    },
+    {
+      "title": "ปุ่ม 30",
+      "file": "packetsVIP/vip_button_30.json",
+      "action": "vip_button_30"
     }
   ],
-  "loop": true,
-  "loop_interval_ms": 100,
-  "after_action": "none"
+  "note": "VIP MENU รองรับ 30 ปุ่ม"
 }
