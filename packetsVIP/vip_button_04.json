@@ -1,21 +1,16 @@
 {
-  "name": "ฮิวหมูหวาน",
-  "action": "vip_button_04",
-  "packets": [
-    {
-      "step": 1,
-      "hex": "00 00 00 1C 00 01 0D 89 00 02 08 A4 6A 10 F7 DB ED F4 D6 D9 EB 03 18 A8 01 20 8F 00 00 00 00 1C 00 01 0D 89 00 02 08 A2 6A 10 F7 DB ED F4 D6 D9 EB 03 18 A8 01 20 8F 00"
-   },
-    {
-      "step": 2,
-      "hex": "00 00 00 1C 00 01 0D 89 00 02 08 A3 6A 10 F7 DB ED F4 D6 D9 EB 03 18 A8 01 20 8F 00 00 00 00 1C 00 01 0D 89 00 02 08 A5 6A 10 F7 DB ED F4 D6 D9 EB 03 18 A8 01 20 8F 00"
-   },
-    {
-      "step": 3,
-      "hex": "00 00 00 1C 00 01 0D 89 00 02 08 A7 6A 10 F7 DB ED F4 D6 D9 EB 03 18 A8 01 20 8F 00 00 00 00 1C 00 01 0D 89 00 02 08 A7 6A 10 F7 DB ED F4 D6 D9 EB 03 18 A8 01 20 8F 00"
-   }
-  ],
+  "name": "vip_button_04",
+  "title_th": "ตบพวกหายตัว",
+  "floating_group": "ฟังก์ชั่นเสริม",
+  "enabled": true,
+  "cooldown_ms": 100,
   "loop": true,
+  "loop_mode": "toggle_until_pressed_again",
   "loop_interval_ms": 100,
-  "after_action": "send_packet_sequence"
+  "stop_on_second_press": true,
+  "action": "replay_last_skill_69001_zero_last",
+  "after_action": "",
+  "packets": [],
+  "note": "หายตัวรัวสกิว",
+  "set_last_byte_zero": false
 }
