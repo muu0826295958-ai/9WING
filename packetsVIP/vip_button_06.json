@@ -1,6 +1,6 @@
 {
   "name": "vip_button_06",
-  "title_th": "🏃‍♂️กันบัฟ สตั้นนิ่ง4วิ",
+  "title_th": "👣 กันบัฟ สตั้นนิ่ง4วิ",
   "floating_group": "ฟังก์ชั่นเสริม",
   "enabled": true,
   "cooldown_ms": 150,
@@ -54,8 +54,8 @@
     800207
   ],
   "confirm_before_action": true,
-  "confirm_title": "เร็วๆนี้ 😁😁😁",
-  "confirm_ok_text": "✔️",
+  "confirm_title": "📣 ประกาศ",
+  "confirm_message": "⚠️ coming soon ...",
   "confirm_cancel_text": "❌",
   "note": "เปิด/ปิดระบบกันสถานะผิดปกติทั้งหมด"
 }
