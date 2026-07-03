@@ -1,6 +1,6 @@
 {
   "name": "vip_button_01",
-  "title_th": "👑 ยืนยัน VIP",
+  "title_th": "🔐ยืนยัน VIP",
   "floating_group": "ฟังก์ชั่นเสริม",
   "enabled": true,
   "cooldown_ms": 300,
