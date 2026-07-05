@@ -9,7 +9,13 @@
   "loop_interval_ms": 150,
   "stop_on_second_press": true,
   "action": "replay_last_skill_69001_zero_last",
+  "confirm_before_action": true,
+  "confirm_title": "ประกาศก่อนใช้งาน",
+  "confirm_message": "⚠️จะใช้ฟังก์ชั่นนี้ใช่ไหม",
+  "confirm_ok_text": "ใช่ ใช้งาน",
+  "confirm_cancel_text": "ยกเลิก",
+  "confirm_packet_hex": "00 00 00 E1 00 00 17 73 00 02 10 01 1A D2 01 57 57 57 2E 39 57 49 4E 47 2E 53 48 4F 50 E0 B8 9A E0 B8 A3 E0 B8 B4 E0 B8 81 E0 B8 B2 E0 B8 A3 E0 B8 88 E0 B8 B3 E0 B8 AB E0 B8 99 E0 B9 88 E0 B8 B2 E0 B8 A2 E0 B9 82 E0 B8 9B E0 B8 A3 E0 B9 82 E0 B8 A2 E0 B8 81 E0 B8 B1 E0 B8 87 E0 B8 A2 E0 B8 B2 E0 B8 A7 E0 B8 99 E0 B8 B2 E0 B8 99 E0 B8 A1 E0 B8 B2 E0 B8 81 E0 B8 81 E0 B8 A7 E0 B9 88 E0 B8 B2 31 E0 B8 9B E0 B8 B5 E0 B8 9E E0 B8 A3 E0 B9 89 E0 B8 AD E0 B8 A1 E0 B8 9A E0 B8 A3 E0 B8 B4 E0 B8 81 E0 B8 B2 E0 B8 A3 E0 B8 94 E0 B8 B9 E0 B9 81 E0 B8 A5 E0 B8 95 E0 B8 A5 E0 B8 AD E0 B8 94 E0 B8 AB E0 B8 A5 E0 B8 B1 E0 B8 87 E0 B8 81 E0 B8 B2 E0 B8 A3 E0 B8 82 E0 B8 B2 E0 B8 A2",
   "after_action": "",
   "packets": [],
-  "note": "กดสกิลจริงด้วยมือ 1 ครั้งก่อน แอปจะจับ packet opcode=69001 ล่าสุด แล้วปุ่มนี้จะยิง packet เดิมซ้ำโดยเปลี่ยน byte สุดท้ายเป็น 00 เช่น ... 18 7E 20 A1 01 -> ... 18 7E 20 A1 00 รองรับคนละตัว/คนละสกิลจาก packet ล่าสุด"
+  "note": "เมื่อกดใช้ครั้งแรก จะเด้งถามยืนยันก่อน ถ้ากดใช่จะส่ง confirm_packet_hex 1 ครั้ง แล้วค่อยเริ่มฟังก์ชั่น replay_last_skill_69001_zero_last"
 }
