@@ -1,0 +1,21 @@
+{
+  "name": "vip_button_07",
+  "title_th": "หัวหายตัว รัวสกิว",
+  "floating_group": "ฟังก์ชั่นเสริม",
+  "enabled": true,
+
+  "cooldown_ms": 100,
+  "loop": true,
+  "loop_mode": "toggle_until_pressed_again",
+  "loop_interval_ms": 100,
+  "stop_on_second_press": true,
+
+  "action": "replay_last_skill_69001_zero_last",
+
+
+  "confirm_packet_hex": "",
+
+  "after_action": "",
+  "packets": [],
+  "note": "เมื่อกดใช้ครั้งแรก จะเด้งถามยืนยันก่อน ถ้ากดใช่จะส่ง confirm_packet_hex 1 ครั้ง แล้วค่อยเริ่มฟังก์ชั่น replay_last_skill_69001_zero_last"
+}
