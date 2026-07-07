@@ -1,6 +1,6 @@
 {
   "name": "vip_button_07",
-  "title_th": "หัวหายตัว+สัตว์",
+  "title_th": "หายตัว+สัตว์",
   "floating_group": "ฟังก์ชั่นเสริม",
   "enabled": true,
   "cooldown_ms": 100,
