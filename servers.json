@@ -495,8 +495,8 @@
     },
     {
       "sid": 71,
-      "name": "S71",
-      "host": "ยังไม่มี IP",
+      "name": "😮 S71-S74",
+      "host": "43.153.222.80",
       "port": 8001,
       "enabled": false
     },
@@ -519,7 +519,7 @@
       "name": "S74",
       "host": "43.153.222.80",
       "port": 8001,
-      "enabled": true
+      "enabled": false
     },
     {
       "sid": 75,
