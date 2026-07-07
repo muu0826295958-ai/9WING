@@ -1209,10 +1209,10 @@
     },
     {
       "sid": 173,
-      "name": "S173",
-      "host": "ยังไม่มี IP",
+      "name": "🚀 S173-S181",
+      "host": "129.226.196.58",
       "port": 8001,
-      "enabled": false
+      "enabled": true
     },
     {
       "sid": 174,
