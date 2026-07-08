@@ -1,0 +1,16 @@
+{
+  "name": "vip_button_09",
+  "title_th": "Object เดิม",
+  "floating_group": "ฟังก์ชั่นเสริม",
+  "enabled": true,
+  "cooldown_ms": 100,
+  "loop": true,
+  "loop_mode": "toggle_until_pressed_again",
+  "loop_interval_ms": 100,
+  "stop_on_second_press": true,
+  "action": "replay_last_skill_69001_original_object_zero_last",
+  "set_last_byte_zero": true,
+  "use_original_object": true,
+  "packets": [],
+  "note": "ใช้ packet 69001 ล่าสุด ไม่เปลี่ยน object_id ใช้ object_id เดิมจาก packet ที่จับได้ แล้วเปลี่ยน byte สุดท้ายเป็น 00"
+}
