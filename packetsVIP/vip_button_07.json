@@ -11,7 +11,7 @@
   "action": "send_toggle_packet_hex_once",
   "start_packet_hex": "00 00 00 0C 00 00 AF CD 00 02 08 03 00 00 00 0D 00 02 51 C5 00 02 08 9C 2F",
   "stop_packet_hex": "00 00 00 0C 00 00 AF CD 00 02 08 01 00 00 00 0D 00 02 51 C5 00 02 08 9C 2F",
-  "after_action": "",
+  "after_action": "replay_last_skill_69001_replace_my_object_zero_last",
   "packets": [],
   "note": "กดครั้งแรกส่ง start_packet_hex 1 ครั้ง กดซ้ำส่ง stop_packet_hex 1 ครั้ง"
 }
