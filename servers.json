@@ -782,10 +782,10 @@
     },
     {
       "sid": 112,
-      "name": "S112",
-      "host": "ยังไม่มี IP",
+      "name": "S112-S120",
+      "host": "43.134.86.123",
       "port": 8001,
-      "enabled": false
+      "enabled": true
     },
     {
       "sid": 113,
