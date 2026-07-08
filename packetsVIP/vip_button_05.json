@@ -1,6 +1,6 @@
 {
   "name": "vip_button_05",
-  "title_th": "เปลี่ยน Object ฉัน",
+  "title_th": "ตบตัวที่หายตัว",
   "floating_group": "ฟังก์ชั่นเสริม",
   "enabled": true,
   "cooldown_ms": 100,
