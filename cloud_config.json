@@ -1,0 +1,27 @@
+{
+  "app_version": "9.7",
+  "theme": "obsidian_gold",
+  "maintenance": {
+    "enabled": false,
+    "message": "ระบบพร้อมใช้งาน"
+  },
+  "announcement": "ยินดีต้อนรับสู่ 9WING.SHOP AUTO 9.7",
+  "endpoints": {
+    "server_list_url": "https://raw.githubusercontent.com/muu0826295958-ai/9WING/main/servers.json",
+    "popup_url": "https://raw.githubusercontent.com/muu0826295958-ai/9WING/main/popup.json",
+    "update_json_url": "https://raw.githubusercontent.com/muu0826295958-ai/9WING/main/update.json",
+    "packets_base_url": "https://raw.githubusercontent.com/muu0826295958-ai/9WING/main/packets/",
+    "packets_vip_base_url": "https://raw.githubusercontent.com/muu0826295958-ai/9WING/main/packetsVIP/",
+    "packets_bundle_url": "",
+    "packets_vip_bundle_url": ""
+  },
+  "features": {
+    "floating": true,
+    "auto_upgrade": true,
+    "batch_auto": true,
+    "ai_auto": true,
+    "auto_sell": true,
+    "vip_menu": true,
+    "reload_config": true
+  }
+}
