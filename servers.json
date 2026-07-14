@@ -930,9 +930,9 @@
     {
       "sid": 133,
       "name": "S133",
-      "host": "ยังไม่มี IP",
+      "host": "43.134.227.37",
       "port": 8001,
-      "enabled": false
+      "enabled": true
     },
     {
       "sid": 134,
