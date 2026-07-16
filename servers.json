@@ -466,18 +466,11 @@
       "enabled": false
     },
     {
-      "sid": 67,
-      "name": "S67",
-      "host": "ยังไม่มี IP",
-      "port": 8001,
-      "enabled": false
-    },
-    {
       "sid": 68,
-      "name": "S68",
-      "host": "ยังไม่มี IP",
+      "name": "🤢 S68-S70",
+      "host": "129.226.219.120",
       "port": 8001,
-      "enabled": false
+      "enabled": true
     },
     {
       "sid": 69,
