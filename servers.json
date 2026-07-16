@@ -1555,7 +1555,8 @@
       "name": "⭐ᴠɪᴘ S222",
       "host": "43.163.89.134",
       "port": 8001,
-      "enabled": true
+      "enabled": true,
+      "text_color": "#FFD700"
     },
     {
       "sid": 223,
