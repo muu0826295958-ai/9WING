@@ -687,7 +687,7 @@
       "name": "🔰 S99",
       "host": "43.128.71.85",
       "port": 8001,
-      "enabled": true
+      "enabled": true,
       "text_color": "#ff0055"
     },
     {
