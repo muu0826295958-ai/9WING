@@ -688,7 +688,7 @@
       "host": "43.128.71.85",
       "port": 8001,
       "enabled": true,
-      "text_color": "#ff0055"
+      "text_color": "#11ff00"
     },
     {
       "sid": 100,
@@ -1056,7 +1056,7 @@
     },
     {
       "sid": 152,
-      "name": "🌟S152-S160",
+      "name": "🌟 S152-S160",
       "host": "43.159.41.26",
       "port": 8001,
       "enabled": true
@@ -1119,7 +1119,7 @@
     },
     {
       "sid": 161,
-      "name": "🦄S161-S172",
+      "name": "🦄 S161-S172",
       "host": "124.156.203.62",
       "port": 8001,
       "enabled": true
