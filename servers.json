@@ -684,10 +684,11 @@
     },
     {
       "sid": 99,
-      "name": "🔰ᴠɪᴘ S99",
+      "name": "🔰 S99",
       "host": "43.128.71.85",
       "port": 8001,
       "enabled": true
+      "text_color": "#ff0055"
     },
     {
       "sid": 100,
@@ -1545,11 +1546,11 @@
     },
     {
       "sid": 222,
-      "name": "⭐ᴠɪᴘ S222",
+      "name": "⭐ S222",
       "host": "43.163.89.134",
       "port": 8001,
       "enabled": true,
-      "text_color": "#FFD700"
+      "text_color": "#ff0055"
     },
     {
       "sid": 223,
