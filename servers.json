@@ -404,10 +404,10 @@
     },
     {
       "sid": 58,
-      "name": "S58",
-      "host": "ยังไม่มี IP",
+      "name": "😍 S58-S60",
+      "host": "43.133.47.168",
       "port": 8001,
-      "enabled": false
+      "enabled": true
     },
     {
       "sid": 59,
