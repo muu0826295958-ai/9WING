@@ -2086,10 +2086,10 @@
     },
     {
       "sid": 299,
-      "name": "S299",
-      "host": "ยังไม่มี IP",
+      "name": "S292-S299",
+      "host": "43.159.43.186",
       "port": 8001,
-      "enabled": false
+      "enabled": true
     },
     {
       "sid": 300,
