@@ -1123,6 +1123,7 @@
       "host": "124.156.203.62",
       "port": 8001,
       "enabled": true
+      "text_color": "#ff0055"
     },
     {
       "sid": 162,
