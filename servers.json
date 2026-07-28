@@ -1119,11 +1119,11 @@
     },
     {
       "sid": 161,
-      "name": "◥▶ น่ๅหม้o(กระบี่No.1) ◀◤  S161-S172",
+      "name": "◥▶ น่ๅหม้o(กระบี่No.1) ◀◤ S161-S172",
       "host": "124.156.203.62",
       "port": 8001,
-      "enabled": true
-      "text_color": "#ff0055"
+      "enabled": true,
+      "text_color": "#FF0000"
     },
     {
       "sid": 162,
