@@ -1,15 +1,15 @@
 {
- "maintenance_enabled": false,
- "maintenance_text": "🟢 ทุกระบบพร้อมใช้งาน",
- "maintenance_blink": true,
- "maintenance_blink_color": true,
- "popup": {
- "enabled": true,
- "id": "popup-v98-beta-001",
- "title": "📣 ประกาศอัปเดตเวอร์ชัน 9.10 ",
- "message": "🆕 รายละเอียดการอัปเดตเวอร์ชัน 9.10 โว้ย !! \n\n1. รองรับระบบย้ายเครื่อง\n5. แก้บัค LOGIN \n2. เพิ่มฟังชั่นใหม่ไปดูเอง\n\nดาวน์โหลดได้ที่หน้าเว็บไซต์ ไม่ต้องทักมาบอกจอเข้าไม่ได้ รีเองเลย ไปๆๆ 🏃 รับรองว่าวิ่ง!",
- "button_text": "รับทราบ",
- "button_url": "https://www.9wing.shop",
- "show_once": false
- }
+  "maintenance_enabled": false,
+  "maintenance_text": "🟢 ทุกระบบพร้อมใช้งาน",
+  "maintenance_blink": true,
+  "maintenance_blink_color": true,
+  "popup": {
+    "enabled": true,
+    "id": "popup-9wing-event-2026-001",
+    "title": "🏆 9WING EVENT — บวกหมดไม่สนดวง! 🔨✨",
+    "message": "แข่งขันสะสมจำนวนครั้งที่ตี +6 สำเร็จ ให้ได้มากที่สุด เพื่อชิงอันดับและรับรางวัลสุดพิเศษ! 🔥\n\n📅 ระยะเวลากิจกรรม\nเริ่มแล้ววันนี้ ถึง 10 สิงหาคม 2569 เวลา 23:59 น.\n\n🎯 เกณฑ์การจัดอันดับ\nนับจากจำนวนครั้งที่ตี +6 สำเร็จรวมสูงสุดตลอดกิจกรรม\n\n🏆 รางวัล\n👑 อันดับ 1: เงินรางวัล 2,000 บาท\n🥈 อันดับ 2: เงินรางวัล 1,000 บาท\n🥉 อันดับ 3: ใช้งานโปรฟรี 30 วัน\n\nรีบไปอัพเดทapp เป็นเ Ultra Smooth ซะ! 🚀",
+    "button_text": "เข้าร่วมกิจกรรม / เช็กอันดับ",
+    "button_url": "https://www.9wing.shop/event",
+    "show_once": false
+  }
 }
