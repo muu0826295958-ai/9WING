@@ -2101,10 +2101,10 @@
     },
     {
       "sid": 301,
-      "name": "S301",
-      "host": "ยังไม่มี IP",
+      "name": "S301-304",
+      "host": "43.156.35.181",
       "port": 8001,
-      "enabled": false
+      "enabled": true
     },
     {
       "sid": 302,
