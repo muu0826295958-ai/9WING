@@ -516,10 +516,10 @@
     },
     {
       "sid": 75,
-      "name": "S75",
-      "host": "ยังไม่มี IP",
+      "name": "S75-S78",
+      "host": "43.156.149.110",
       "port": 8001,
-      "enabled": false
+      "enabled": true
     },
     {
       "sid": 76,
