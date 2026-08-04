@@ -2409,10 +2409,10 @@
     },
     {
       "sid": 345,
-      "name": "S345",
-      "host": "ยังไม่มี IP",
+      "name": "🆕 S345",
+      "host": "129.226.208.122",
       "port": 8001,
-      "enabled": false
+      "enabled": true
     },
     {
       "sid": 346,
