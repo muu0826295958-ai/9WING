@@ -1,15 +1,28 @@
 {
   "maintenance_enabled": false,
-  "maintenance_text": "🟢 ทุกระบบพร้อมใช้งาน",
+  "maintenance_text": "🟢 ทุกระบบพร้อมใช้งาน • Ultra V9.13",
   "maintenance_blink": true,
   "maintenance_blink_color": true,
-  "popup": {
-    "enabled": true,
-    "id": "popup-9wing-event-2026-001",
-    "title": "🏆 9WING EVENT — บวกหมดไม่สนดวง! 🔨✨",
-    "message": "แข่งขันสะสมจำนวนครั้งที่ตี +6 สำเร็จ ให้ได้มากที่สุด เพื่อชิงอันดับและรับรางวัลสุดพิเศษ! 🔥\n\n📅 ระยะเวลากิจกรรม\nเริ่มแล้ววันนี้ ถึง 10 สิงหาคม 2569 เวลา 23:59 น.\n\n🎯 เกณฑ์การจัดอันดับ\nนับจากจำนวนครั้งที่ตี +6 สำเร็จรวมสูงสุดตลอดกิจกรรม\n\n🏆 รางวัล\n👑 อันดับ 1: เงินรางวัล 2,000 บาท\n🥈 อันดับ 2: เงินรางวัล 1,000 บาท\n🥉 อันดับ 3: ใช้งานโปรฟรี 30 วัน\n\nรีบไปอัพเดทapp เป็นเ Ultra Smooth ซะ! 🚀",
-    "button_text": "เข้าร่วมกิจกรรม / เช็กอันดับ",
-    "button_url": "https://www.9wing.shop/event",
-    "show_once": false
-  }
+
+  "popups": [
+    {
+      "enabled": true,
+      "id": "popup-9wing-v913-update",
+      "title": "🚀 9WING.SHOP Ultra V9.13 — UPDATE",
+      "message": "📢 อัปเดตระบบประจำเวอร์ชัน 9.13\n\n✨ รายการปรับปรุงและฟีเจอร์ใหม่\n\n🔐 ระบบ Login\n• เพิ่มความเสถียร\n• ลดอาการ Time Out\n\n🎮 ระบบการเล่น\n• เพิ่มระบบล็อกหัว\n• เพิ่มระบบแสดงชื่อผู้เล่นรอบตัว\n• เพิ่มระบบดาเมจออกรอบตัว\n• เพิ่มระบบ ESP บอกตำแหน่งผู้เล่น\n\n🤖 ระบบข้อมูล\n• อัปเดต DATA AI อัตโนมัติ",
+      "button_text": "ถัดไป ➜",
+      "button_url": "",
+      "show_once": false
+    },
+
+    {
+      "enabled": true,
+      "id": "popup-9wing-v913-warning",
+      "title": "⚠️ สำคัญ! กรุณาอัปเดตก่อน 17 สิงหาคม",
+      "message": "🔑 รหัสผ่านเข้าใช้งาน\n\nVIP Access: 9WINGVVIP\nVVIP Access: WING\n\n⚠️ กรุณาอัปเดตเป็น Ultra V9.13 ก่อนวันที่ 17 สิงหาคม 2569\n\nบัญชีที่ไม่ได้รับการอัปเดตภายในกำหนด จะถูกลบออกจากระบบอย่างถาวร และไม่สามารถเปิดใช้งานหรือกู้คืนได้ทุกกรณี",
+      "button_text": "🚀 อัปเดต Ultra V9.13",
+      "button_url": "https://www.9wing.shop",
+      "show_once": false
+    }
+  ]
 }
