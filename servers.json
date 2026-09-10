@@ -2395,10 +2395,10 @@
     },
     {
       "sid": 343,
-      "name": "S343",
-      "host": "ยังไม่มี IP",
+      "name": "🆕 S343",
+      "host": "43.173.164.164",
       "port": 8001,
-      "enabled": false
+      "enabled": true
     },
     {
       "sid": 344,
