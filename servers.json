@@ -2360,10 +2360,10 @@
     },
     {
       "sid": 338,
-      "name": "S338",
-      "host": "ยังไม่มี IP",
+      "name": "🆕 S338",
+      "host": "43.159.52.37",
       "port": 8001,
-      "enabled": false
+      "enabled": true
     },
     {
       "sid": 339,
