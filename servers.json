@@ -2368,9 +2368,9 @@
     {
       "sid": 339,
       "name": "S339",
-      "host": "ยังไม่มี IP",
+      "host": "43.134.25.207",
       "port": 8001,
-      "enabled": false
+      "enabled": true
     },
     {
       "sid": 340,
