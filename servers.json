@@ -2375,9 +2375,9 @@
     {
       "sid": 340,
       "name": "S340",
-      "host": "ยังไม่มี IP",
+      "host": "129.226.201.126",
       "port": 8001,
-      "enabled": false
+      "enabled": true
     },
     {
       "sid": 341,
