@@ -2045,10 +2045,10 @@
     },
     {
       "sid": 293,
-      "name": "S293",
-      "host": "ยังไม่มี IP",
+      "name": "S293-S305",
+      "host": "43.159.43.186",
       "port": 8001,
-      "enabled": false
+      "enabled": true
     },
     {
       "sid": 294,
