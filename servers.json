@@ -2465,10 +2465,10 @@
     },
     {
       "sid": 353,
-      "name": "S353",
-      "host": "ยังไม่มี IP",
+      "name": "⚠️ S353",
+      "host": "43.156.116.80",
       "port": 8001,
-      "enabled": false
+      "enabled": true
     },
     {
       "sid": 354,
